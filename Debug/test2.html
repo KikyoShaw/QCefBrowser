@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>测试2</title>
+    <script type="text/javascript">
+        function SigSendMessageToJS(data) {
+            nativemsg.innerText=data;
+        }
+        function sendmsg2QT() {
+            window.ReceivedMsgFromJS(textedit.value);
+        }
+    </script>
+</head>
+<body>
+    test page 2
+    <input type="button"  value="JSSendMessage" onclick='sendmsg2QT()'/>
+    <input type="text" id="textedit" name="textedit"  value="web text 222"/>
+	<br>
+    <br>
+	<div style="background-color:#eef">native msg:<span id="nativemsg" style="font-size:15pt;"></span></div>
+</body>
+</html>

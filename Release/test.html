@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf8" />
+    <title>测试1</title>
+    <script type="text/javascript">
+        function CppToJs(data) {
+			alert(data);
+            nativemsg.innerText=data;
+        }
+        function sendmsg2QT() {
+            window.ReceivedMsgFromJS(textedit.value);
+        }
+    </script>
+<script>
+
+</script>
+
+</head>
+<body>
+    test 测试1 1
+    <input type="button"  value="JSSendMessage" onclick='sendmsg2QT()'/>
+    <input type="text" id="textedit" name="textedit"  value="web msg 1111"/>
+    <br>
+    <br>
+	<div style="background-color:#eef">native msg:<span id="nativemsg" style="font-size:15pt;word-wrap:break-word"></span></div>
+</body>
+</html>
