@@ -40,7 +40,7 @@ QCefWebView::QCefWebView(QWidget *parent) :
     if (!s_browserHandler) {
         s_browserHandler = new CefBrowserHandlerImp();
         smap_browserHandlers[browserHandlerIndex]=s_browserHandler;
-        connect(s_browserHandler, &CefBrowserHandlerImp::browserCreated, this, &QCefWebView::onBrowserCreated, Qt::QueuedConnection);
+        connect(s_browserHandler, &CefBrowserHandlerImp::browserCreated, this, &QCefWebView::sltBrowserCreated, Qt::QueuedConnection);
         connect(s_browserHandler, &CefBrowserHandlerImp::urlChanged, this, &QCefWebView::urlChanged, Qt::QueuedConnection);
         connect(s_browserHandler, &CefBrowserHandlerImp::titleChanged, this, &QCefWebView::titleChanged, Qt::QueuedConnection);
         connect(s_browserHandler, &CefBrowserHandlerImp::loadingStateChanged, this, &QCefWebView::loadStateChanged, Qt::QueuedConnection);
@@ -120,7 +120,7 @@ void QCefWebView::stop()
     }
 }
 
-void QCefWebView::onBrowserCreated()
+void QCefWebView::sltBrowserCreated()
 {
     _browserState = Created;
     if (_needResize) {
@@ -143,6 +143,7 @@ void QCefWebView::resizeEvent(QResizeEvent* event)
     default:
         ResizeBrowser(event->size());
     }
+	QWidget::resizeEvent(event);
 }
 
 bool QCefWebView::CreateBrowser(const QSize& size)
@@ -224,6 +225,16 @@ void QCefWebView::SendMsgToPage(const QString &msg)
 
     frame->ExecuteJavaScript(code, frame->GetURL(), 0);
 
+}
+
+void QCefWebView::ModifyZoom(double delta)
+{
+	/*if (!CefCurrentlyOn(TID_UI)) {
+	}*/
+	auto browser = GetBrowser(browserHandlerIndex);
+	if (browser.get()) {
+		browser->GetHost()->SetZoomLevel(browser->GetHost()->GetZoomLevel() + delta);
+	}
 }
 
 
