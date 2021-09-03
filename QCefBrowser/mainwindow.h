@@ -3,8 +3,8 @@
 
 #include <QMainWindow>
 #include "ui_mainwindow.h"
-#include "qcefwebview.h"
-#include "QCefBrowser.h"
+
+class QCefBrowser;
 
 class MainWindow : public QMainWindow
 {
@@ -15,14 +15,16 @@ public:
     ~MainWindow();
 
 private slots:
-    void on_pushButton_sendToJs_clicked();
-    void RecvJsMsg(const QString& msg);
-    void on_pushButton_loaduri_clicked();
-	void on_pushButton_loadTest_clicked();
+    void sltRecvJsMsg(const QString& msg);
+	void sltSendMsgToJs();
+	void sltLoadUrlWed();
+	void sltLoadTestWeb();
+	void sltZoomWeb();
 
 private:
     Ui::MainWindow ui;
-	QCefBrowser *m_browser = nullptr;
+	QCefBrowser *m_browser = Q_NULLPTR;
+
 };
 
 #endif // MAINWINDOW_H
