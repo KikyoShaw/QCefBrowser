@@ -444,7 +444,7 @@ QLineEdit
        <item>
         <widget class="QCefWebView" name="widget_web" native="true">
          <property name="styleSheet">
-          <string notr="true">border:1px solid #555;</string>
+          <string notr="true"/>
          </property>
         </widget>
        </item>
