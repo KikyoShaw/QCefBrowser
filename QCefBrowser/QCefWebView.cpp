@@ -4,6 +4,8 @@
 #include "CefBrowserHandlerImp.h"
 #include "QCefWebView.h"
 #include <QtWidgets/QApplication>
+#include "include/wrapper/cef_helpers.h"
+#include "include/base/cef_bind.h"
 
 #define DEFAULT_URL "http://www.baidu.com"
 
@@ -229,12 +231,25 @@ void QCefWebView::SendMsgToPage(const QString &msg)
 
 void QCefWebView::ModifyZoom(double delta)
 {
-	/*if (!CefCurrentlyOn(TID_UI)) {
-	}*/
 	auto browser = GetBrowser(browserHandlerIndex);
 	if (browser.get()) {
+		//在UI线程上执行
+		if (!CefCurrentlyOn(TID_UI)) {
+			//CefPostTask(TID_UI, base::Bind(&ModifyZoom, this, delta));
+			return;
+		}
 		browser->GetHost()->SetZoomLevel(browser->GetHost()->GetZoomLevel() + delta);
 	}
+}
+
+double QCefWebView::getBrowserZoomLevel()
+{
+	double zoomLevel = 0;
+	auto browser = GetBrowser(browserHandlerIndex);
+	if (browser.get()) {
+		zoomLevel = browser->GetHost()->GetZoomLevel();
+	}
+	return zoomLevel;
 }
 
 
