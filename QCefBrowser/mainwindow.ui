@@ -6,14 +6,47 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1201</width>
+    <width>1600</width>
     <height>834</height>
    </rect>
   </property>
   <property name="windowTitle">
-   <string>qceflibtest</string>
+   <string>QCefBrowser</string>
   </property>
   <widget class="QWidget" name="centralWidget">
+   <property name="styleSheet">
+    <string notr="true">#frame_web
+{
+	background-color: rgb(255, 255, 255);
+}
+
+QPushButton
+{
+	border: 1px solid #5D3EFF;
+	border-radius:15px;
+	font-size: 12px;
+	font-family: 微软雅黑;
+	color: #000000;
+}
+
+QLabel
+{
+	font-size: 12px;
+	font-family: 微软雅黑;
+	color: #000000;
+}
+
+QLineEdit
+{
+	border: 1px solid #5D3EFF;
+	background: rgba(156,158,208,0);
+	border-radius: 15px;
+	font-size: 12px;
+	font-family: 微软雅黑;
+	color: #000000;
+	padding-left:16px;
+}</string>
+   </property>
    <layout class="QHBoxLayout" name="horizontalLayout_3">
     <property name="spacing">
      <number>6</number>
@@ -34,15 +67,21 @@
      <widget class="QFrame" name="frame_js">
       <property name="minimumSize">
        <size>
-        <width>400</width>
+        <width>300</width>
         <height>0</height>
        </size>
       </property>
       <property name="maximumSize">
        <size>
-        <width>400</width>
+        <width>300</width>
         <height>16777215</height>
        </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">#frame_js
+{
+	background-color: rgb(255, 255, 255);
+}</string>
       </property>
       <property name="frameShape">
        <enum>QFrame::StyledPanel</enum>
@@ -68,36 +107,15 @@
        </property>
        <item>
         <widget class="QWidget" name="widget_sendJs" native="true">
-         <property name="minimumSize">
-          <size>
-           <width>0</width>
-           <height>50</height>
-          </size>
-         </property>
-         <property name="maximumSize">
-          <size>
-           <width>16777215</width>
-           <height>50</height>
-          </size>
-         </property>
-         <layout class="QHBoxLayout" name="horizontalLayout_2">
+         <layout class="QVBoxLayout" name="verticalLayout_3">
           <property name="spacing">
-           <number>8</number>
-          </property>
-          <property name="leftMargin">
-           <number>10</number>
+           <number>6</number>
           </property>
           <property name="topMargin">
-           <number>0</number>
-          </property>
-          <property name="rightMargin">
            <number>10</number>
           </property>
-          <property name="bottomMargin">
-           <number>0</number>
-          </property>
           <item>
-           <widget class="QLineEdit" name="lineEdit">
+           <widget class="QWidget" name="widget_send" native="true">
             <property name="minimumSize">
              <size>
               <width>0</width>
@@ -110,32 +128,77 @@
               <height>30</height>
              </size>
             </property>
+            <layout class="QHBoxLayout" name="horizontalLayout_2">
+             <property name="spacing">
+              <number>6</number>
+             </property>
+             <property name="leftMargin">
+              <number>0</number>
+             </property>
+             <property name="topMargin">
+              <number>0</number>
+             </property>
+             <property name="rightMargin">
+              <number>0</number>
+             </property>
+             <property name="bottomMargin">
+              <number>0</number>
+             </property>
+             <item>
+              <widget class="QLineEdit" name="lineEdit">
+               <property name="minimumSize">
+                <size>
+                 <width>0</width>
+                 <height>30</height>
+                </size>
+               </property>
+               <property name="maximumSize">
+                <size>
+                 <width>16777215</width>
+                 <height>30</height>
+                </size>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="pushButton_toJs">
+               <property name="minimumSize">
+                <size>
+                 <width>75</width>
+                 <height>30</height>
+                </size>
+               </property>
+               <property name="maximumSize">
+                <size>
+                 <width>75</width>
+                 <height>30</height>
+                </size>
+               </property>
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="text">
+                <string>ToWeb</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
            </widget>
           </item>
           <item>
-           <widget class="QPushButton" name="pushButton_sendToJs">
+           <widget class="QLabel" name="label">
             <property name="minimumSize">
              <size>
-              <width>80</width>
+              <width>0</width>
               <height>30</height>
              </size>
             </property>
             <property name="maximumSize">
              <size>
-              <width>80</width>
+              <width>16777215</width>
               <height>30</height>
              </size>
             </property>
-            <property name="styleSheet">
-             <string notr="true">border:1px solid #555;</string>
-            </property>
-            <property name="text">
-             <string>发送到web端</string>
-            </property>
-           </widget>
-          </item>
-          <item>
-           <widget class="QLabel" name="label">
             <property name="text">
              <string>接受Web数据：</string>
             </property>
@@ -143,8 +206,8 @@
           </item>
           <item>
            <widget class="QLabel" name="label_webmsg">
-            <property name="text">
-             <string>TextLabel</string>
+            <property name="alignment">
+             <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
             </property>
            </widget>
           </item>
@@ -166,6 +229,9 @@
     </item>
     <item>
      <widget class="QFrame" name="frame_web">
+      <property name="styleSheet">
+       <string notr="true"/>
+      </property>
       <property name="frameShape">
        <enum>QFrame::StyledPanel</enum>
       </property>
@@ -203,7 +269,7 @@
           </size>
          </property>
          <property name="styleSheet">
-          <string notr="true">border:1px solid #555;</string>
+          <string notr="true"/>
          </property>
          <layout class="QHBoxLayout" name="horizontalLayout">
           <property name="spacing">
@@ -241,7 +307,7 @@
            </widget>
           </item>
           <item>
-           <widget class="QPushButton" name="pushButton_loaduri">
+           <widget class="QPushButton" name="pushButton_zoom">
             <property name="minimumSize">
              <size>
               <width>60</width>
@@ -254,8 +320,33 @@
               <height>30</height>
              </size>
             </property>
+            <property name="cursor">
+             <cursorShape>PointingHandCursor</cursorShape>
+            </property>
             <property name="text">
-             <string>加载网页</string>
+             <string>缩放</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="pushButton_load">
+            <property name="minimumSize">
+             <size>
+              <width>60</width>
+              <height>30</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>60</width>
+              <height>30</height>
+             </size>
+            </property>
+            <property name="cursor">
+             <cursorShape>PointingHandCursor</cursorShape>
+            </property>
+            <property name="text">
+             <string>加载</string>
             </property>
            </widget>
           </item>
@@ -273,8 +364,11 @@
               <height>30</height>
              </size>
             </property>
+            <property name="cursor">
+             <cursorShape>PointingHandCursor</cursorShape>
+            </property>
             <property name="text">
-             <string>打开测试web</string>
+             <string>测试web</string>
             </property>
            </widget>
           </item>
@@ -298,7 +392,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1201</width>
+     <width>1600</width>
      <height>23</height>
     </rect>
    </property>

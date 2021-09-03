@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include <QDir>
 #include <QTextCodec>
+#include "QCefBrowser.h"
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent)
@@ -10,35 +11,37 @@ MainWindow::MainWindow(QWidget *parent) :
     QString uri = QFileInfo(QCoreApplication::applicationDirPath()+"/test.html").absoluteFilePath();
     ui.widget_html->loadUrl(uri);
 
+	ui.widget_web->ModifyZoom(10);
 
-    connect(ui.widget_html, SIGNAL(recvRenderMsg(QString)), this, SLOT(RecvJsMsg(QString)));
-	//connect(ui.pushButton_sendToJs, &QPushButton::clicked, this, &MainWindow::on_pushButton_sendToJs_clicked);
-	//connect(ui.pushButton_loaduri, &QPushButton::clicked, this, &MainWindow::on_pushButton_loaduri_clicked);
-	connect(ui.pushButton_test, &QPushButton::clicked, this, &MainWindow::on_pushButton_loadTest_clicked);
+    connect(ui.widget_html, &QCefWebView::recvRenderMsg, this, &MainWindow::sltRecvJsMsg);
+	connect(ui.pushButton_toJs, &QPushButton::clicked, this, &MainWindow::sltSendMsgToJs);
+	connect(ui.pushButton_load, &QPushButton::clicked, this, &MainWindow::sltLoadUrlWed);
+	connect(ui.pushButton_test, &QPushButton::clicked, this, &MainWindow::sltLoadTestWeb);
+	connect(ui.pushButton_zoom, &QPushButton::clicked, this, &MainWindow::sltZoomWeb);
 }
 
 MainWindow::~MainWindow()
 {
 }
 
-void MainWindow::on_pushButton_sendToJs_clicked()
-{
-	QString text = ui.lineEdit->text();
-    ui.widget_html->SendMsgToPage(text);
-}
-
-void MainWindow::RecvJsMsg(const QString &msg)
+void MainWindow::sltRecvJsMsg(const QString &msg)
 {
     ui.label_webmsg->setText(msg);
 }
 
-void MainWindow::on_pushButton_loaduri_clicked()
+void MainWindow::sltSendMsgToJs()
+{
+	QString text = ui.lineEdit->text();
+	ui.widget_html->SendMsgToPage(text);
+}
+
+void MainWindow::sltLoadUrlWed()
 {
 	QString text = ui.lineEdit->text();
 	ui.widget_web->loadUrl(text);
 }
 
-void MainWindow::on_pushButton_loadTest_clicked()
+void MainWindow::sltLoadTestWeb()
 {
 	m_browser = new QCefBrowser();
 	m_browser->setAttribute(Qt::WA_DeleteOnClose);
@@ -50,7 +53,7 @@ void MainWindow::on_pushButton_loadTest_clicked()
 	}
 }
 
-void MainWindow::resizeEvent(QResizeEvent * event)
+void MainWindow::sltZoomWeb()
 {
-	//ui.widget_web->
+	ui.widget_web->ModifyZoom(0.1);
 }
