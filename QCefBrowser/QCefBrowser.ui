@@ -95,6 +95,17 @@ border-image: url(:/QSimpleBrowser/qrc/web.png);
       <property name="cursor">
        <cursorShape>PointingHandCursor</cursorShape>
       </property>
+      <property name="styleSheet">
+       <string notr="true">#pushButton
+{
+	border-image: url(:/QCefBrowser/qrc/ic_zggb.png);
+}
+
+#pushButton:hover
+{
+	border-image: url(:/QCefBrowser/qrc/ic_zggb1.png);
+}</string>
+      </property>
       <property name="text">
        <string/>
       </property>
@@ -124,6 +135,8 @@ border-image: url(:/QSimpleBrowser/qrc/web.png);
    <container>1</container>
   </customwidget>
  </customwidgets>
- <resources/>
+ <resources>
+  <include location="QCefBrowser.qrc"/>
+ </resources>
  <connections/>
 </ui>

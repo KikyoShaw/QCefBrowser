@@ -1,4 +1,6 @@
 <RCC>
-    <qresource prefix="QCefBrowser">
+    <qresource prefix="/QCefBrowser">
+        <file>qrc/ic_zggb.png</file>
+        <file>qrc/ic_zggb1.png</file>
     </qresource>
 </RCC>

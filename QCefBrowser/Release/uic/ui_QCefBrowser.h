@@ -73,6 +73,15 @@ public:
         pushButton->setObjectName(QString::fromUtf8("pushButton"));
         pushButton->setGeometry(QRect(455, 16, 32, 32));
         pushButton->setCursor(QCursor(Qt::PointingHandCursor));
+        pushButton->setStyleSheet(QString::fromUtf8("#pushButton\n"
+"{\n"
+"	border-image: url(:/QCefBrowser/qrc/ic_zggb.png);\n"
+"}\n"
+"\n"
+"#pushButton:hover\n"
+"{\n"
+"	border-image: url(:/QCefBrowser/qrc/ic_zggb1.png);\n"
+"}"));
         widget_web = new QCefWebView(frame);
         widget_web->setObjectName(QString::fromUtf8("widget_web"));
         widget_web->setGeometry(QRect(0, 0, 505, 729));
