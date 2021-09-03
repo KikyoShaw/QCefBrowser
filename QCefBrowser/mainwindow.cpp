@@ -49,3 +49,8 @@ void MainWindow::on_pushButton_loadTest_clicked()
 		m_browser->show();
 	}
 }
+
+void MainWindow::resizeEvent(QResizeEvent * event)
+{
+	//ui.widget_web->
+}
