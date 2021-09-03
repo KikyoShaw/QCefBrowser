@@ -26,29 +26,30 @@ public:
 	//创建浏览器
 	bool CreateBrowser(const QSize & size);
 
-	//加载网页
-	void loadUrl(const QUrl& url);
-
-	//返回上一页
-	void back();
-
-	//下一页
-	void forward();
-
-	//刷新
-	void refresh();
-
-	//停止加载
-	void stop();
-
 	//网页缩放
 	void ModifyZoom(double delta);
 
+	//获取浏览器当前尺寸
+	double getBrowserZoomLevel();
+
 	//发送消息到js端
-    void SendMsgToPage(const QString& msg);
+	void SendMsgToPage(const QString& msg);
 
 	//关闭浏览器
 	void closeBrowser(QCloseEvent* event);
+
+
+public slots :
+	//加载网页
+	void loadUrl(const QUrl& url);
+	//返回上一页
+	void back();
+	//下一页
+	void forward();
+	//刷新
+	void refresh();
+	//停止加载
+	void stop();
 
 signals:
     void titleChanged(const QString& title);
