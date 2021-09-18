@@ -56,6 +56,6 @@ void MainWindow::sltLoadTestWeb()
 
 void MainWindow::sltZoomWeb()
 {
-	auto _zoom = ui.widget_web->getBrowserZoomLevel();
-	ui.widget_web->ModifyZoom(1.25);
+	auto _zoom = (double(125 - 100)) / 25.0;
+	ui.widget_web->ModifyZoom(_zoom);
 }
