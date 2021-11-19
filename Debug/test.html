@@ -3,15 +3,30 @@
 <html>
 <head>
     <meta charset="utf8" />
-    <title>测试1</title>
+    <title>JS测试</title>
     <script type="text/javascript">
         function CppToJs(data) {
 			alert(data);
             nativemsg.innerText=data;
         }
         function sendmsg2QT() {
-            window.ReceivedMsgFromJS(textedit.value);
+           if(!isEmpty(textedit.value)){
+				window.ReceivedMsgFromJS(textedit.value);
+			}else{
+				alert("输入不能为空")
+			}
         }
+		function isEmpty(str) {
+				if(str === undefined) {
+					return true;
+				}
+				else if(str == null) {
+					return true;
+				} else {
+					var reg = /^\s*$/;
+					return reg.test(str);
+				}
+			}
     </script>
 <script>
 
@@ -19,12 +34,13 @@
 
 </head>
 <body>
-    test 测试1 1
-    <input type="button"  value="JSSendMessage" onclick='sendmsg2QT()'/>
+    JS端
+    <input type="button"  value="发送消息" onclick='sendmsg2QT()'/>
 	<br>
+    <br>
     <input type="text" id="textedit" name="textedit"  value=""/>
     <br>
     <br>
-	<div style="background-color:#eef">native msg:<span id="nativemsg" style="font-size:15pt;word-wrap:break-word"></span></div>
+	<div style="background-color:#eef">收到消息:<span id="nativemsg" style="font-size:15pt;word-wrap:break-word"></span></div>
 </body>
 </html>
