@@ -892,3 +892,249 @@ C:\fakepath(60,24-44): warning X3571: pow(f, e) will not work for negative f, us
 
 ", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5727230.js (231)
 [0903/171612.973:INFO:CONSOLE(231)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5727230.js (231)
+[1119/110620.804:ERROR:backend_impl.cc(1055)] Critical error found -8
+[1119/110620.804:WARNING:storage_block-inl.h(131)] Failed data load.
+[1119/110620.804:ERROR:entry_impl.cc(962)] Failed to save user data
+[1119/110622.136:INFO:CONSOLE(258)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/110622.136:INFO:CONSOLE(258)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/110645.212:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=b%E7%AB%99&fenlei=256&rsv_pq=9d411146000098cb&rsv_t=72051ltdY1PdswXkjqN9XaqR5%2Fw1voHmP0EHwhopIIvgDGfEHG4Xg8ySQt0&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=15&rsv_sug1=13&rsv_sug7=100&rsv_btype=i&inputT=20266&rsv_sug4=20267' was loaded over HTTPS, but requested an insecure image 'http://baikebcs.bdimg.com/baike-icon.png'. This content should also be served over HTTPS.", source: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=b%E7%AB%99&fenlei=256&rsv_pq=9d411146000098cb&rsv_t=72051ltdY1PdswXkjqN9XaqR5%2Fw1voHmP0EHwhopIIvgDGfEHG4Xg8ySQt0&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=15&rsv_sug1=13&rsv_sug7=100&rsv_btype=i&inputT=20266&rsv_sug4=20267 (0)
+[1119/110645.213:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=b%E7%AB%99&fenlei=256&rsv_pq=9d411146000098cb&rsv_t=72051ltdY1PdswXkjqN9XaqR5%2Fw1voHmP0EHwhopIIvgDGfEHG4Xg8ySQt0&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=15&rsv_sug1=13&rsv_sug7=100&rsv_btype=i&inputT=20266&rsv_sug4=20267' was loaded over HTTPS, but requested an insecure image 'http://baikebcs.bdimg.com/baike-icon.png'. This content should also be served over HTTPS.", source: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=b%E7%AB%99&fenlei=256&rsv_pq=9d411146000098cb&rsv_t=72051ltdY1PdswXkjqN9XaqR5%2Fw1voHmP0EHwhopIIvgDGfEHG4Xg8ySQt0&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=15&rsv_sug1=13&rsv_sug7=100&rsv_btype=i&inputT=20266&rsv_sug4=20267 (0)
+[1119/110646.730:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token {", source: https://s1.hdslb.com/bfs/static/laputa-home/client/assets/index.80f603e0.js (1)
+[1119/110651.947:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(60,24-44): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1119/110652.757:INFO:CONSOLE(1)] "%c
+                     //
+         \\         //
+          \\       //
+    ##DDDDDDDDDDDDDDDDDDDDDD##
+    ## DDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+    ## hh                hh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+    ## hh    //    \\    hh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+    ## hh   //      \\   hh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+    ## hh                hh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+    ## hh      wwww      hh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+    ## hh                hh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+    ## MMMMMMMMMMMMMMMMMMMM ##
+    ##MMMMMMMMMMMMMMMMMMMMMM##                             Release 2.6.1. Powered by jinkela-core 2.8.9.
+         \/            \/", source: https://s1.hdslb.com/bfs/static/jinkela/video/stardust-video.ebbc3962762b20e4517802d2248ba801984c73ff.js (1)
+[1119/110653.861:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token {", source: https://s1.hdslb.com/bfs/seed/laputa-header/bili-header.umd.js (4)
+[1119/110654.725:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(68,10-53): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1119/110654.764:INFO:CONSOLE(361)] "load module pbp", source: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.d58da073.js (361)
+[1119/110655.323:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[1119/110655.324:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110655.327:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110655.327:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110655.329:WARNING:stunport.cc(381)] Jingle:Port[296AC430:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110655.618:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110655.620:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110655.620:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110655.623:WARNING:stunport.cc(381)] Jingle:Port[0CE13F38:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110657.327:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[1119/110658.153:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token {", source: https://s1.hdslb.com/bfs/static/laputa-home/client/assets/index.80f603e0.js (1)
+[1119/110701.519:INFO:CONSOLE(0)] "The resource https://s1.hdslb.com/bfs/static/laputa-home/client/assets/vip-default-banner.6db4a7ed.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.", source: https://www.bilibili.com/ (0)
+[1119/110702.577:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token {", source: https://s1.hdslb.com/bfs/static/laputa-home/client/assets/index.80f603e0.js (1)
+[1119/110705.765:INFO:CONSOLE(0)] "The resource https://s1.hdslb.com/bfs/static/laputa-home/client/assets/vip-default-banner.6db4a7ed.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.", source: https://www.bilibili.com/? (0)
+[1119/110718.512:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://live.bilibili.com/' was loaded over HTTPS, but requested an insecure image 'http://message.biliimg.com/bfs/im/b686f1a6437b98d5c1ca67675a93aa8427e4067e.jpg@1e_1c_100q.jpg'. This content should also be served over HTTPS.", source: https://live.bilibili.com/ (0)
+[1119/110718.567:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(71,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(94,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1119/110719.708:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[1119/110719.708:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[1119/110719.888:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(60,10-53): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1119/110719.967:INFO:CONSOLE(2)] "Error: 请先登录", source: https://s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.2.1.min.js (2)
+[1119/110719.970:INFO:CONSOLE(2)] "fMp4Player v1.37", source: https://s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.2.1.min.js (2)
+[1119/110722.984:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token {", source: https://s1.hdslb.com/bfs/static/laputa-home/client/assets/index.80f603e0.js (1)
+[1119/110726.891:INFO:CONSOLE(0)] "The resource https://s1.hdslb.com/bfs/static/laputa-home/client/assets/vip-default-banner.6db4a7ed.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.", source: https://www.bilibili.com/ (0)
+[1119/110732.846:INFO:CONSOLE(1)] "%c
+                     //
+         \\         //
+          \\       //
+    ##DDDDDDDDDDDDDDDDDDDDDD##
+    ## DDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+    ## hh                hh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+    ## hh    //    \\    hh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+    ## hh   //      \\   hh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+    ## hh                hh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+    ## hh      wwww      hh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+    ## hh                hh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+    ## MMMMMMMMMMMMMMMMMMMM ##
+    ##MMMMMMMMMMMMMMMMMMMMMM##                             Release 2.6.1. Powered by jinkela-core 2.8.9.
+         \/            \/", source: https://s1.hdslb.com/bfs/static/jinkela/video/stardust-video.ebbc3962762b20e4517802d2248ba801984c73ff.js (1)
+[1119/110733.576:INFO:CONSOLE(361)] "load module pbp", source: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.d58da073.js (361)
+[1119/110733.620:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token {", source: https://s1.hdslb.com/bfs/seed/laputa-header/bili-header.umd.js (4)
+[1119/110734.223:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110734.226:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110734.226:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110734.230:WARNING:stunport.cc(381)] Jingle:Port[144FCC28:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110734.506:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110734.508:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110734.508:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110734.509:WARNING:stunport.cc(381)] Jingle:Port[144FB7D0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110736.226:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[1119/110736.508:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[1119/110737.217:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110737.220:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110737.221:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110737.227:WARNING:stunport.cc(381)] Jingle:Port[0CDB60D8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110737.232:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110737.235:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110737.235:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110737.241:WARNING:stunport.cc(381)] Jingle:Port[0CDB6F60:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110739.220:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[1119/110739.236:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[1119/110740.244:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110740.245:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110740.246:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110740.247:WARNING:stunport.cc(381)] Jingle:Port[0CDB66A8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110740.463:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110740.465:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110740.465:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110740.466:WARNING:stunport.cc(381)] Jingle:Port[29BE7348:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110742.248:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[1119/110742.466:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[1119/110743.098:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110743.099:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110743.099:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110743.100:WARNING:stunport.cc(381)] Jingle:Port[0CDB60D8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110743.148:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110743.150:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110743.150:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110743.151:WARNING:stunport.cc(381)] Jingle:Port[144FB7D0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110745.152:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[1119/110745.596:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110745.598:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110745.598:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110745.599:WARNING:stunport.cc(381)] Jingle:Port[299D0938:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110759.761:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110759.763:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110759.763:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110759.765:WARNING:stunport.cc(381)] Jingle:Port[2A394488:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110801.765:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[1119/110803.568:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110803.570:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110803.570:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110803.574:WARNING:stunport.cc(381)] Jingle:Port[2A394D40:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110805.570:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[1119/110808.277:WARNING:spdy_session.cc(2861)] Received WINDOW_UPDATE for invalid stream 95
+[1119/110808.349:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token {", source: https://s1.hdslb.com/bfs/static/laputa-home/client/assets/index.80f603e0.js (1)
+[1119/110809.694:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token {", source: https://s1.hdslb.com/bfs/static/laputa-home/client/assets/index.80f603e0.js (1)
+[1119/110812.843:INFO:CONSOLE(0)] "The resource https://s1.hdslb.com/bfs/static/laputa-home/client/assets/vip-default-banner.6db4a7ed.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.", source: https://www.bilibili.com/ (0)
+[1119/110819.125:INFO:CONSOLE(1)] "%c
+                     //
+         \\         //
+          \\       //
+    ##DDDDDDDDDDDDDDDDDDDDDD##
+    ## DDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+    ## hh                hh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+    ## hh    //    \\    hh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+    ## hh   //      \\   hh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+    ## hh                hh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+    ## hh      wwww      hh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+    ## hh                hh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+    ## MMMMMMMMMMMMMMMMMMMM ##
+    ##MMMMMMMMMMMMMMMMMMMMMM##                             Release 2.6.1. Powered by jinkela-core 2.8.9.
+         \/            \/", source: https://s1.hdslb.com/bfs/static/jinkela/video/stardust-video.ebbc3962762b20e4517802d2248ba801984c73ff.js (1)
+[1119/110819.722:INFO:CONSOLE(361)] "load module pbp", source: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.d58da073.js (361)
+[1119/110820.115:INFO:CONSOLE(4)] "Uncaught SyntaxError: Unexpected token {", source: https://s1.hdslb.com/bfs/seed/laputa-header/bili-header.umd.js (4)
+[1119/110820.658:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[1119/110820.658:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110820.661:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110820.661:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110820.663:WARNING:stunport.cc(381)] Jingle:Port[06F730A8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110822.661:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[1119/110823.103:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1119/110823.105:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1119/110823.105:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1119/110823.106:WARNING:stunport.cc(381)] Jingle:Port[06F73390:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1119/110823.897:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[1119/110823.930:WARNING:spdy_session.cc(2861)] Received WINDOW_UPDATE for invalid stream 133
+[1119/140524.000:INFO:CONSOLE(258)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/140524.003:INFO:CONSOLE(258)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/140553.355:INFO:CONSOLE(258)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/140553.355:INFO:CONSOLE(258)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/141243.554:INFO:CONSOLE(258)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/141243.555:INFO:CONSOLE(258)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/141638.690:INFO:CONSOLE(258)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/141638.690:INFO:CONSOLE(258)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/141716.112:INFO:CONSOLE(258)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/141716.112:INFO:CONSOLE(258)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/141717.100:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141718.324:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141718.979:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141721.107:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141722.565:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141722.963:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141723.139:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141723.315:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141723.478:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141723.644:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141814.250:INFO:CONSOLE(258)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/141814.251:INFO:CONSOLE(258)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/141820.708:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141821.163:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141821.747:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141821.916:INFO:CONSOLE(13)] "Uncaught ReferenceError: isEmpty is not defined", source: file:///E:/demo/Qt/QCefBrowser/Debug/test.html (13)
+[1119/141856.302:INFO:CONSOLE(258)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)
+[1119/141856.303:INFO:CONSOLE(258)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_5d57d7d.js (258)

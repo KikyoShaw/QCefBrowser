@@ -33,7 +33,9 @@ void MainWindow::sltRecvJsMsg(const QString &msg)
 void MainWindow::sltSendMsgToJs()
 {
 	QString text = ui.lineEdit->text();
-	ui.widget_html->SendMsgToPage(text);
+	if (!text.isEmpty()) {
+		ui.widget_html->SendMsgToPage(text);
+	}
 }
 
 void MainWindow::sltLoadUrlWed()
