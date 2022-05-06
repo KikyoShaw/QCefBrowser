@@ -4500,3 +4500,165 @@ C:\fakepath(60,10-53): warning X3571: pow(f, e) will not work for negative f, us
 [1203/172928.035:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
 [1203/172928.036:WARNING:stunport.cc(381)] Jingle:Port[45924D58:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
 [1203/172954.129:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0506/165219.587:INFO:CONSOLE(286)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_7bf0395.js (286)
+[0506/165219.587:INFO:CONSOLE(286)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_7bf0395.js (286)
+[0506/165249.960:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(71,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(94,11-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0506/165253.697:INFO:CONSOLE(0)] "The resource https://s1.hdslb.com/bfs/static/laputa-home/client/assets/vip-default-banner.6db4a7ed.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.", source: https://www.bilibili.com/ (0)
+[0506/165255.447:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 81
+[0506/165256.154:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(60,24-44): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0506/165258.208:INFO:CONSOLE(1)] "%c
+                     //
+         \\         //
+          \\       //
+    ##DDDDDDDDDDDDDDDDDDDDDD##
+    ## DDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+    ## hh                hh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+    ## hh    //    \\    hh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+    ## hh   //      \\   hh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+    ## hh                hh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+    ## hh      wwww      hh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+    ## hh                hh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+    ## MMMMMMMMMMMMMMMMMMMM ##
+    ##MMMMMMMMMMMMMMMMMMMMMM##                             Release 2.33.0. Powered by jinkela-core 2.8.10.
+         \/            \/", source: https://s1.hdslb.com/bfs/static/jinkela/video/stardust-video.af7643bb77b75493f74b5d6d1007ca85a79ce7e4.js (1)
+[0506/165300.058:INFO:CONSOLE(2)] "load module pbp", source: https://s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.7.1.min.js (2)
+[0506/165300.061:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[0506/165300.062:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[0506/165300.608:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0506/165300.609:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165300.612:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165300.613:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165300.615:WARNING:stunport.cc(381)] Jingle:Port[1EE47E08:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165300.673:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165300.675:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165300.675:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165300.676:WARNING:stunport.cc(381)] Jingle:Port[1EE463E0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165302.614:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[0506/165302.676:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[0506/165303.275:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165303.277:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165303.277:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165303.279:WARNING:stunport.cc(381)] Jingle:Port[1F043980:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165303.378:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165303.380:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165303.380:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165303.381:WARNING:stunport.cc(381)] Jingle:Port[1F043F50:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165305.279:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[0506/165305.605:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165305.607:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165305.607:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165305.609:WARNING:stunport.cc(381)] Jingle:Port[1F40E0B0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165308.426:WARNING:audio_sync_reader.cc(172)] ASR: No room in socket buffer.: �ܵ����ڱ��رա� (0xE8)
+[0506/165310.211:INFO:CONSOLE(1)] "%c
+                     //
+         \\         //
+          \\       //
+    ##DDDDDDDDDDDDDDDDDDDDDD##
+    ## DDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+    ## hh                hh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+    ## hh    //    \\    hh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+    ## hh   //      \\   hh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+    ## hh                hh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+    ## hh      wwww      hh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+    ## hh                hh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+    ## MMMMMMMMMMMMMMMMMMMM ##
+    ##MMMMMMMMMMMMMMMMMMMMMM##                             Release 2.33.0. Powered by jinkela-core 2.8.10.
+         \/            \/", source: https://s1.hdslb.com/bfs/static/jinkela/video/stardust-video.af7643bb77b75493f74b5d6d1007ca85a79ce7e4.js (1)
+[0506/165310.831:INFO:CONSOLE(2)] "load module failed", source: https://s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.7.1.min.js (2)
+[0506/165310.837:WARNING:spdy_session.cc(2861)] Received WINDOW_UPDATE for invalid stream 153
+[0506/165312.763:INFO:CONSOLE(1)] "%c
+                     //
+         \\         //
+          \\       //
+    ##DDDDDDDDDDDDDDDDDDDDDD##
+    ## DDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+    ## hh                hh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+    ## hh    //    \\    hh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+    ## hh   //      \\   hh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+    ## hh                hh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+    ## hh      wwww      hh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+    ## hh                hh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+    ## MMMMMMMMMMMMMMMMMMMM ##
+    ##MMMMMMMMMMMMMMMMMMMMMM##                             Release 2.33.0. Powered by jinkela-core 2.8.10.
+         \/            \/", source: https://s1.hdslb.com/bfs/static/jinkela/video/stardust-video.af7643bb77b75493f74b5d6d1007ca85a79ce7e4.js (1)
+[0506/165313.384:INFO:CONSOLE(2)] "load module pbp", source: https://s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.7.1.min.js (2)
+[0506/165314.018:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165314.021:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165314.021:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165314.026:WARNING:stunport.cc(381)] Jingle:Port[1ECF77C0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165314.039:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165314.041:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165314.041:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165314.042:WARNING:stunport.cc(381)] Jingle:Port[1ECF74D8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165316.023:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[0506/165316.042:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[0506/165317.074:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165317.077:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165317.077:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165317.079:WARNING:stunport.cc(381)] Jingle:Port[1ECF6C20:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165317.949:INFO:CONSOLE(1)] "%c
+                     //
+         \\         //
+          \\       //
+    ##DDDDDDDDDDDDDDDDDDDDDD##
+    ## DDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+    ## hh                hh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+    ## hh    //    \\    hh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+    ## hh   //      \\   hh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+    ## hh                hh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+    ## hh      wwww      hh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+    ## hh                hh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+    ## MMMMMMMMMMMMMMMMMMMM ##
+    ##MMMMMMMMMMMMMMMMMMMMMM##                             Release 2.33.0. Powered by jinkela-core 2.8.10.
+         \/            \/", source: https://s1.hdslb.com/bfs/static/jinkela/video/stardust-video.af7643bb77b75493f74b5d6d1007ca85a79ce7e4.js (1)
+[0506/165318.571:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165318.574:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165318.574:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165318.577:WARNING:stunport.cc(381)] Jingle:Port[1F19AEF8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165318.644:INFO:CONSOLE(2)] "load module pbp", source: https://s1.hdslb.com/bfs/static/jinkela/long/js/sentry/sentry-5.7.1.min.js (2)
+[0506/165319.078:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[0506/165319.726:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0506/165319.727:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165319.730:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165319.730:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165319.737:WARNING:stunport.cc(381)] Jingle:Port[1B151578:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165319.807:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165319.810:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165319.810:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165319.812:WARNING:stunport.cc(381)] Jingle:Port[1FAB78E8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165321.733:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[0506/165322.151:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165322.153:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165322.153:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165322.157:WARNING:stunport.cc(381)] Jingle:Port[1B150408:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165324.107:INFO:CONSOLE(0)] "The resource https://s1.hdslb.com/bfs/static/laputa-home/client/assets/vip-default-banner.6db4a7ed.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.", source: https://www.bilibili.com/ (0)
+[0506/165324.155:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[0506/165325.142:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165325.144:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165325.144:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165325.145:WARNING:stunport.cc(381)] Jingle:Port[1B1526E8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165327.145:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[0506/165327.659:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165327.661:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165327.661:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165327.662:WARNING:stunport.cc(381)] Jingle:Port[1B151B48:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165329.662:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[0506/165330.275:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[0506/165330.278:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[0506/165330.278:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[0506/165330.281:WARNING:stunport.cc(381)] Jingle:Port[1B14EFB0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0506/165332.280:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
+[0506/165344.615:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 317
+[0506/165345.119:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 133
