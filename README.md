@@ -1,4 +1,6 @@
 # QCefBrowser
+
+#### 介绍
 基于CEF封装的Qt浏览器，支持音视频播放，开发环境vs2017+qt5.12.11
 
 重构项目
@@ -13,6 +15,10 @@
 
 5.支持离屏渲染
 
+#### 效果图
+![image](https://github.com/KikyoShaw/QCefBrowser/tree/master/GIF/1.gif)
+
+#### 学习资料
 CEF开发学习总结
 https://blog.csdn.net/qq_36651243/article/details/115350668
 
