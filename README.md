@@ -16,7 +16,7 @@
 5.支持离屏渲染
 
 #### 效果图
-![image](https://github.com/KikyoShaw/QCefBrowser/tree/master/GIF/1.gif)
+![image](https://github.com/KikyoShaw/QCefBrowser/blob/master/GIF/1.gif)
 
 #### 学习资料
 CEF开发学习总结
