@@ -15,6 +15,8 @@
 
 5.支持离屏渲染
 
+6.支持svga
+
 #### 效果图
 ![image](https://github.com/KikyoShaw/QCefBrowser/blob/master/GIF/1.gif)
 
@@ -48,6 +50,9 @@ https://github.com/cefsharp/CefSharp
 
 参考开发文档链接
 https://github.com/fanfeilong/cefutil
+
+Qt版本
+https://cefview.github.io/QCefView/docs/intros/buiding/
 
 
 
