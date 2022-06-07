@@ -4662,3 +4662,23 @@ C:\fakepath(60,24-44): warning X3571: pow(f, e) will not work for negative f, us
 [0506/165332.280:ERROR:sctptransport.cc(789)] SctpTransport->SendQueuedStreamResets(): Failed to send a stream reset for 1 streams: [0x00000009] Bad file descriptor
 [0506/165344.615:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 317
 [0506/165345.119:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 133
+[0607/122330.731:ERROR:backend_impl.cc(1055)] Critical error found -8
+[0607/122330.731:WARNING:storage_block-inl.h(131)] Failed data load.
+[0607/122330.731:ERROR:entry_impl.cc(962)] Failed to save user data
+[0607/122332.182:INFO:CONSOLE(294)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_59359ad.js (294)
+[0607/122332.182:INFO:CONSOLE(294)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_59359ad.js (294)
+[0607/122332.466:INFO:CONSOLE(3)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: http://hectorstatic.baidu.com/96c9c06653ba892e.js (3)
+[0607/122332.466:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0607/122332.555:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[0607/122344.196:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1653306264222_page1.svga", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[0607/122349.960:INFO:CONSOLE(145)] "svg结束", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (145)
+[0607/122349.960:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1643180186162_xingkongzhichuang8181788.webp", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[0607/122349.960:INFO:CONSOLE(85)] "remove", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (85)
+[0607/122349.961:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1643180186162_xingkongzhichuang8181788.webp", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)

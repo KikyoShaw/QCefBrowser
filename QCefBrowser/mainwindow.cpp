@@ -50,7 +50,8 @@ void MainWindow::sltLoadTestWeb()
 	m_browser->setAttribute(Qt::WA_DeleteOnClose);
 	if (m_browser) {
 		//QString url = ui->lineEdit_url->text();
-		QString url = "https://www.bilibili.com/video/BV1pA411H7vg?from=search&seid=10147493024578840911";
+		/*QString url = "https://www.bilibili.com/video/BV1pA411H7vg?from=search&seid=10147493024578840911";*/
+		QString url = "file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/index.html";
 		m_browser->openUrl(url);
 		m_browser->show();
 	}
