@@ -17,6 +17,8 @@
 
 6.支持svga
 
+7.后续
+
 #### 效果图
 ![image](https://github.com/KikyoShaw/QCefBrowser/blob/master/GIF/1.gif)
 
