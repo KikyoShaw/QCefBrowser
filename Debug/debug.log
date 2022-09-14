@@ -4682,3 +4682,66 @@ C:\fakepath(60,24-44): warning X3571: pow(f, e) will not work for negative f, us
 [0607/122349.960:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1643180186162_xingkongzhichuang8181788.webp", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
 [0607/122349.960:INFO:CONSOLE(85)] "remove", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (85)
 [0607/122349.961:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1643180186162_xingkongzhichuang8181788.webp", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[0914/105222.755:INFO:CONSOLE(314)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_142d787.js (314)
+[0914/105222.761:INFO:CONSOLE(314)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_142d787.js (314)
+[0914/105223.235:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0914/105223.235:INFO:CONSOLE(3)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: http://hectorstatic.baidu.com/96c9c06653ba892e.js (3)
+[0914/105223.328:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[0914/105241.796:INFO:CONSOLE(0)] "ResizeObserver loop limit exceeded", source: http://43.138.196.60/ (0)
+[0914/105246.261:INFO:CONSOLE(0)] "ResizeObserver loop limit exceeded", source: http://43.138.196.60/ (0)
+[0914/105248.112:INFO:CONSOLE(39)] "Uncaught (in promise) AbortError: The play() request was interrupted by a new load request. https://goo.gl/LdLk22", source: http://43.138.196.60/ (39)
+[0914/105249.489:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105250.073:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(64,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(73,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0914/105314.937:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105335.831:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1653306264222_page1.svga", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[0914/105337.454:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105338.446:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105339.246:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105339.688:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105341.629:INFO:CONSOLE(145)] "svg结束", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (145)
+[0914/105341.629:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1643180186162_xingkongzhichuang8181788.webp", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[0914/105341.629:INFO:CONSOLE(85)] "remove", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (85)
+[0914/105341.629:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1643180186162_xingkongzhichuang8181788.webp", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[0914/105349.763:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1653306264222_page1.svga", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[0914/105351.690:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105352.553:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105427.448:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105459.105:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105507.872:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105538.734:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(64,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(73,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0914/105550.790:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105603.957:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105604.756:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105616.958:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[0914/105622.993:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105623.280:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/105643.504:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1653306264222_page1.svga", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[0914/105647.897:INFO:CONSOLE(145)] "svg结束", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (145)
+[0914/105647.898:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1643180186162_xingkongzhichuang8181788.webp", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[0914/105647.898:INFO:CONSOLE(85)] "remove", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (85)
+[0914/105647.898:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1643180186162_xingkongzhichuang8181788.webp", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[0914/111011.803:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"Failed to reconcile encoded audio times with decoded output."}
+[0914/111120.525:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/111121.429:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/111122.015:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/111122.582:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/111123.020:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0914/111502.985:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1653306264222_page1.svga", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[0914/111508.730:INFO:CONSOLE(145)] "svg结束", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (145)
+[0914/111508.730:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1643180186162_xingkongzhichuang8181788.webp", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[0914/111508.731:INFO:CONSOLE(85)] "remove", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (85)
+[0914/111508.731:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1643180186162_xingkongzhichuang8181788.webp", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[0914/111513.176:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)

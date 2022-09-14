@@ -443,6 +443,28 @@ QLineEdit
              </property>
             </widget>
            </item>
+           <item>
+            <widget class="QPushButton" name="pushButton_webp">
+             <property name="minimumSize">
+              <size>
+               <width>60</width>
+               <height>30</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>60</width>
+               <height>30</height>
+              </size>
+             </property>
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="text">
+              <string>webp</string>
+             </property>
+            </widget>
+           </item>
           </layout>
          </widget>
         </item>

@@ -20,6 +20,7 @@ private slots:
 	void sltLoadUrlWed();
 	void sltLoadTestWeb();
 	void sltZoomWeb();
+	void sltLoadWebp();
 
 private:
     Ui::MainWindow ui;
