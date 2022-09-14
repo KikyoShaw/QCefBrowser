@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include <QDir>
 #include <QTextCodec>
+#include <QFileDialog>
 #include "QCefBrowser.h"
 
 MainWindow::MainWindow(QWidget *parent) :
@@ -19,6 +20,7 @@ MainWindow::MainWindow(QWidget *parent) :
 	connect(ui.pushButton_refresh, &QPushButton::clicked, ui.widget_web, &QCefWebView::refresh);
 	connect(ui.pushButton_back, &QPushButton::clicked, ui.widget_web, &QCefWebView::back);
 	connect(ui.pushButton_forward, &QPushButton::clicked, ui.widget_web, &QCefWebView::forward);
+	connect(ui.pushButton_webp, &QPushButton::clicked, this, &MainWindow::sltLoadWebp);
 }
 
 MainWindow::~MainWindow()
@@ -61,4 +63,16 @@ void MainWindow::sltZoomWeb()
 {
 	auto _zoom = (double(125 - 100)) / 25.0;
 	ui.widget_web->ModifyZoom(_zoom);
+}
+
+void MainWindow::sltLoadWebp()
+{
+	auto OpenFile = QFileDialog::getOpenFileName(this,
+		"Please choose webp file",
+		"",
+		"Image Files(*.webp *.GIF);");
+
+	if (!OpenFile.isEmpty()) {
+		ui.widget_web->loadUrl(OpenFile);
+	}
 }

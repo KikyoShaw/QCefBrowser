@@ -7,7 +7,7 @@
 #include "include/wrapper/cef_helpers.h"
 #include "include/base/cef_bind.h"
 
-#define DEFAULT_URL "http://www.baidu.com"
+#define DEFAULT_URL "http://43.138.196.60/"
 
 static int s_browserHandlercount=0;
 static std::map<int,CefRefPtr<CefBrowserHandlerImp>> smap_browserHandlers=std::map<int,CefRefPtr<CefBrowserHandlerImp>>();
