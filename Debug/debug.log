@@ -4745,3 +4745,76 @@ C:\fakepath(73,9-43): warning X3571: pow(f, e) will not work for negative f, use
 [0914/111508.731:INFO:CONSOLE(85)] "remove", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (85)
 [0914/111508.731:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1643180186162_xingkongzhichuang8181788.webp", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
 [0914/111513.176:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[1011/153018.418:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":" Large timestamp gap detected; may cause AV sync to drift. time:223084us expected:278640us delta:-55556us"}
+[1011/153018.464:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":" Large timestamp gap detected; may cause AV sync to drift. time:313084us expected:371520us delta:-58436us"}
+[1011/153021.064:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":" Large timestamp gap detected; may cause AV sync to drift. time:2913084us expected:2972155us delta:-59071us"}
+[1011/153040.000:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[1011/153041.619:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[1011/153045.069:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[1011/153048.037:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: data source error"}
+[1011/153048.037:ERROR:ffmpeg_demuxer.cc(383)] Format conversion failed.
+[1011/153048.037:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR PIPELINE_ERROR_READ
+[1011/153048.467:INFO:CONSOLE(39)] "Uncaught (in promise) AbortError: The play() request was interrupted by a new load request. https://goo.gl/LdLk22", source: http://43.138.196.60/ (39)
+[1011/153049.437:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[1011/153054.332:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[1011/153103.265:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1653306264222_page1.svga", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[1011/153109.227:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1011/153109.598:INFO:CONSOLE(314)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_8f3f605.js (314)
+[1011/153109.598:INFO:CONSOLE(314)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_8f3f605.js (314)
+[1011/153110.013:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1011/153110.013:INFO:CONSOLE(3)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: http://hectorstatic.baidu.com/96c9c06653ba892e.js (3)
+[1011/153110.103:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[1025/171132.748:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(64,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(73,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1027/165208.739:INFO:CONSOLE(314)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_5c29c44.js (314)
+[1027/165208.759:INFO:CONSOLE(314)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_5c29c44.js (314)
+[1027/165209.845:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1027/165209.845:INFO:CONSOLE(3)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: http://hectorstatic.baidu.com/96c9c06653ba892e.js (3)
+[1027/165210.214:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[0206/091806.364:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0206/091807.639:INFO:CONSOLE(39)] "Uncaught (in promise) NotSupportedError: Failed to load because no supported source was found.", source: http://43.138.196.60/ (39)
+[0206/091807.897:WARNING:angle_platform_impl.cc(51)] rx::HLSLCompiler::compileToBinary(228): 
+C:\fakepath(64,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(73,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0523/145843.654:INFO:CONSOLE(323)] "这是一个最好的时代，
+科技的发展给予了每个人创造价值的可能性；
+这也是一个最充满想象的时代，
+每一位心怀梦想的人，终会奔向星辰大海。
+百度与你们一起仰望星辰大海，携手共筑未来！
+", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_80d12f2.js (323)
+[0523/145843.669:INFO:CONSOLE(323)] "%c百度2023校园招聘简历投递：https://talent.baidu.com/jobs/list", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_80d12f2.js (323)
+[0523/145844.961:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[0523/145844.961:INFO:CONSOLE(3)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: http://hectorstatic.baidu.com/96c9c06653ba892e.js (3)
+[0523/145845.054:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[0523/145846.388:INFO:CONSOLE(323)] "这是一个最好的时代，
+科技的发展给予了每个人创造价值的可能性；
+这也是一个最充满想象的时代，
+每一位心怀梦想的人，终会奔向星辰大海。
+百度与你们一起仰望星辰大海，携手共筑未来！
+", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_80d12f2.js (323)
+[0523/145846.388:INFO:CONSOLE(323)] "%c百度2023校园招聘简历投递：https://talent.baidu.com/jobs/list", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_80d12f2.js (323)
+[0523/145847.587:INFO:CONSOLE(323)] "这是一个最好的时代，
+科技的发展给予了每个人创造价值的可能性；
+这也是一个最充满想象的时代，
+每一位心怀梦想的人，终会奔向星辰大海。
+百度与你们一起仰望星辰大海，携手共筑未来！
+", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_80d12f2.js (323)
+[0523/145847.587:INFO:CONSOLE(323)] "%c百度2023校园招聘简历投递：https://talent.baidu.com/jobs/list", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_80d12f2.js (323)
+[0523/145850.281:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1653306264222_page1.svga", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
