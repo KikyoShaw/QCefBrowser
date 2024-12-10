@@ -4,6 +4,7 @@
 #include <QMainWindow>
 #include "ui_mainwindow.h"
 
+class CefOsrWidget;
 class QCefBrowser;
 
 class MainWindow : public QMainWindow
@@ -21,11 +22,13 @@ private slots:
 	void sltLoadTestWeb();
 	void sltZoomWeb();
 	void sltLoadWebp();
+	void sltLoadOsr();
 
 private:
     Ui::MainWindow ui;
 	QCefBrowser *m_browser = Q_NULLPTR;
 
+	CefOsrWidget* m_osrWidget = Q_NULLPTR;
 };
 
 #endif // MAINWINDOW_H

@@ -11,12 +11,15 @@ class CefBrowserHandlerImp: public QObject,
 	public CefLifeSpanHandler,
 	public CefFocusHandler,
 	public CefLoadHandler,
-	public CefRenderHandler  //¿Î∆¡‰÷»æ (Œ¥ø™∑¢ÕÍ»´)
+	public CefRenderHandler  //¿Î∆¡‰÷»æ
 {
 	Q_OBJECT
 
 public:
 	CefBrowserHandlerImp();
+
+	void setWinHandle(HWND hwnd);
+	void setReceiver(QObject* receiver);
 
 public:
 	// CefClient methods:
@@ -75,9 +78,7 @@ signals:
 	void titleChanged(const QString& title);
 	void loadingStateChanged(bool isLoading, bool canGoBack, bool canGoForward);
 	void webViewGotFocus();
-
     void recvRenderMsg(const QString& msg);
-
 	void loadStarted();
 	void loadFinished(bool loadSuccess);
 
@@ -86,6 +87,7 @@ public:
 	void CloseAllBrowsers(bool forceClose);
 	bool IsClosing() const { return _isClosing; }
 	CefRefPtr<CefBrowser> GetBrowser(){	return _browser; }
+	std::list<CefRefPtr<CefBrowser>> getCefBrowerList() { return _browserList; }
 
 private:
 	// List of existing browser windows. Only accessed on the CEF UI thread.
@@ -100,6 +102,10 @@ private:
 	static int _browserCount;
 	// The child browser id
 	int _browserId;
+	// The Qt hwnd
+	HWND m_hwnd;
+	// osr image
+	QObject* m_receiver;
 
 private:
 	// Include the default reference counting implementation.

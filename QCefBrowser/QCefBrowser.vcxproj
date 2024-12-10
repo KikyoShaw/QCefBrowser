@@ -32,7 +32,7 @@
   </ImportGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|Win32'" Label="QtSettings">
     <QtInstall>Qt5.12.11_msvc2017_32</QtInstall>
-    <QtModules>core;gui;widgets</QtModules>
+    <QtModules>core;gui;widgets;winextras</QtModules>
     <QtBuildConfig>debug</QtBuildConfig>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|Win32'" Label="QtSettings">
@@ -103,9 +103,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CefOsrHandlerImp.cpp" />
+    <ClCompile Include="CefOsrWidget.cpp" />
     <ClCompile Include="events.cpp" />
     <ClCompile Include="QCefWebView.cpp" />
     <QtRcc Include="QCefBrowser.qrc" />
+    <QtUic Include="CefOsrWidget.ui" />
     <QtUic Include="mainwindow.ui" />
     <QtUic Include="QCefBrowser.ui" />
     <QtMoc Include="QCefBrowser.h" />
@@ -121,6 +124,8 @@
   <ItemGroup>
     <ClInclude Include="CefAppImp.h" />
     <ClInclude Include="CefBrowser.h" />
+    <QtMoc Include="CefOsrWidget.h" />
+    <ClInclude Include="CefOsrHandlerImp.h" />
     <ClInclude Include="events.h" />
     <ClInclude Include="MyRenderProcessHandler.h" />
     <ClInclude Include="myv8handler.h" />

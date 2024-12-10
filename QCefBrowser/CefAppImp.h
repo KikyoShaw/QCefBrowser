@@ -18,7 +18,7 @@ public:
     }
 
 	// CefBrowserProcessHandler methods:
-    //virtual void OnContextInitialized() OVERRIDE;
+    virtual void OnContextInitialized() OVERRIDE;
 
 
 private:

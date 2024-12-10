@@ -8,12 +8,32 @@
 #include "include/wrapper/cef_closure_task.h"
 #include "include/wrapper/cef_helpers.h"
 
+#include <sstream>
+#include <string>
+#include <QDateTime>
+#include <QBuffer>
+#include <QPixmap>
+#include <QtWin>
+
+#include <QCoreApplication>
+#include <events.h>
+
 
 int CefBrowserHandlerImp::_browserCount = 0;
 
 CefBrowserHandlerImp::CefBrowserHandlerImp()
-	:_isClosing(false)
+	:_isClosing(false), m_hwnd(NULL), m_receiver(nullptr), _browserId(0)
 {
+}
+
+void CefBrowserHandlerImp::setWinHandle(HWND hwnd)
+{
+	m_hwnd = hwnd;
+}
+
+void CefBrowserHandlerImp::setReceiver(QObject* receiver)
+{
+	m_receiver = receiver;
 }
 
 void CefBrowserHandlerImp::OnTitleChange(CefRefPtr<CefBrowser> browser, const CefString& title)
@@ -154,14 +174,15 @@ void CefBrowserHandlerImp::OnLoadEnd(CefRefPtr<CefBrowser> browser, CefRefPtr<Ce
 
 bool CefBrowserHandlerImp::GetViewRect(CefRefPtr<CefBrowser> browser, CefRect &rect)
 {
-	/*RECT clientRect;
+	RECT clientRect;
 	if (!::GetClientRect(m_hwnd, &clientRect))
 		return false;
 
 	rect.x = rect.y = 0;
 	rect.width = clientRect.right;
 	rect.height = clientRect.bottom;
-	return true;*/
+
+	return true;
 
 	return false;
 }
@@ -173,7 +194,7 @@ void CefBrowserHandlerImp::OnPaint(CefRefPtr<CefBrowser> browser,
 	int width,
 	int height)
 {
-	/*HBITMAP bitmap = CreateBitmap(width, height, 1, 32, buffer);
+	HBITMAP bitmap = CreateBitmap(width, height, 1, 32, buffer);
 	QPixmap pixmap = QtWin::fromHBITMAP(bitmap);
 	QImage image = pixmap.toImage();
 
@@ -184,7 +205,7 @@ void CefBrowserHandlerImp::OnPaint(CefRefPtr<CefBrowser> browser,
 	}
 
 	UpdateEvent *updateEvent = new UpdateEvent(image);
-	QCoreApplication::postEvent(m_receiver, updateEvent);*/
+	QCoreApplication::postEvent(m_receiver, updateEvent);
 }
 
 bool CefBrowserHandlerImp::OnProcessMessageReceived(CefRefPtr<CefBrowser> browser, CefProcessId source_process, CefRefPtr<CefProcessMessage> message)

@@ -4818,3 +4818,161 @@ C:\fakepath(73,9-43): warning X3571: pow(f, e) will not work for negative f, use
 ", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_80d12f2.js (323)
 [0523/145847.587:INFO:CONSOLE(323)] "%c百度2023校园招聘简历投递：https://talent.baidu.com/jobs/list", source: http://pss.bdstatic.com/r/www/cache/static/global/js/all_async_search_80d12f2.js (323)
 [0523/145850.281:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1653306264222_page1.svga", source: file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[1210/141218.386:ERROR:backend_impl.cc(1055)] Critical error found -8
+[1210/141218.387:WARNING:storage_block-inl.h(131)] Failed data load.
+[1210/141218.387:ERROR:entry_impl.cc(962)] Failed to save user data
+[1210/141220.279:INFO:CONSOLE(271)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_97ee202.js (271)
+[1210/141220.279:INFO:CONSOLE(271)] "%c百度2025校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_97ee202.js (271)
+[1210/141220.965:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1210/141220.965:INFO:CONSOLE(3)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: https://hectorstatic.baidu.com/96c9c06653ba892e.js (3)
+[1210/141221.072:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[1210/155500.972:INFO:CONSOLE(271)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_97ee202.js (271)
+[1210/155500.973:INFO:CONSOLE(271)] "%c百度2025校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_97ee202.js (271)
+[1210/155501.499:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1210/155501.500:INFO:CONSOLE(3)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: https://hectorstatic.baidu.com/96c9c06653ba892e.js (3)
+[1210/155501.607:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[1210/155505.023:INFO:CONSOLE(0)] "Failed to load https://wappass.baidu.com/static/captcha/tuxing_v2.html?&logid=10155647625524651777&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26mod%3D11%26isbd%3D1%26isid%3DABFF620798E42541%26ie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3Dhu%2527y%26fenlei%3D256%26rsv_pq%3D0xccbbca1f007369b5%26rsv_t%3Da50fX1SI1rcO99cANlBP9oO8HHMDPD3oWces98NfSDb%252BWQzTaasYxPEzbF7M%26rqlang%3Den%26rsv_dl%3Dib%26rsv_enter%3D1%26rsv_sug3%3D3%26rsv_sug1%3D1%26rsv_sug7%3D100%26rsv_sid%3D61027_61216_61243_60851_61321%26_ss%3D1%26clist%3D%26hsug%3D%26csor%3D0%26pstg%3D5%26_cr1%3D27919&ext=x9G9QDmMXq%2FNo87gjGO0P40oL10sVYUQFIjgS5AcYMEmQTcmpWyo3%2FdfvHZy90eGg1T9i%2F9aWxTqDk%2BHyX%2BPswmdYpVb5yCAwAZIlp3yw2DTHFBXn55YAvaurSxSulxq&signature=7feb7f2c0c7d3ee780d4202651eb08a7&timestamp=1733817304: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.baidu.com' is therefore not allowed access.", source: https://www.baidu.com/ (0)
+[1210/155505.458:INFO:CONSOLE(0)] "Failed to load https://wappass.baidu.com/static/captcha/tuxing_v2.html?&logid=7267543118884996827&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26mod%3D11%26isbd%3D1%26isid%3DABFF620798E42541%26ie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3Dhu%2527ya%26fenlei%3D256%26rsv_pq%3D0xccbbca1f007369b5%26rsv_t%3Da50fX1SI1rcO99cANlBP9oO8HHMDPD3oWces98NfSDb%252BWQzTaasYxPEzbF7M%26rqlang%3Den%26rsv_dl%3Dib%26rsv_enter%3D1%26rsv_sug3%3D4%26rsv_sug1%3D2%26rsv_sug7%3D100%26rsv_sid%3D61027_61216_61243_60851_61321%26_ss%3D1%26clist%3D%26hsug%3D%26csor%3D0%26pstg%3D5%26_cr1%3D28018&ext=x9G9QDmMXq%2FNo87gjGO0P40oL10sVYUQFIjgS5AcYMGRefc3eGtarOGqhes%2BYoPEg1T9i%2F9aWxTqDk%2BHyX%2BPsy0MIaK7BeevNDhFpRxZ%2Fa7THFBXn55YAvaurSxSulxq&signature=aa04bd0767a3fa5dec3517e40726a7ce&timestamp=1733817305: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.baidu.com' is therefore not allowed access.", source: https://www.baidu.com/ (0)
+[1210/155506.003:INFO:CONSOLE(0)] "Failed to load https://wappass.baidu.com/static/captcha/tuxing_v2.html?&logid=10425200219719781879&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26mod%3D11%26isbd%3D1%26isid%3DABFF620798E42541%26ie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3Dhuya%26fenlei%3D256%26rsv_pq%3D0xccbbca1f007369b5%26rsv_t%3Da50fX1SI1rcO99cANlBP9oO8HHMDPD3oWces98NfSDb%252BWQzTaasYxPEzbF7M%26rqlang%3Den%26rsv_dl%3Dib%26rsv_enter%3D1%26rsv_sug3%3D5%26rsv_sug1%3D3%26rsv_sug7%3D100%26rsv_sid%3D61027_61216_61243_60851_61321%26_ss%3D1%26clist%3D%26hsug%3D%26csor%3D4%26pstg%3D5%26_cr1%3D27882&ext=x9G9QDmMXq%2FNo87gjGO0P40oL10sVYUQFIjgS5AcYMGRefc3eGtarOGqhes%2BYoPEg1T9i%2F9aWxTqDk%2BHyX%2BPsy0MIaK7BeevNDhFpRxZ%2Fa7THFBXn55YAvaurSxSulxq&signature=8c86a20b389070d46eaa3ef3edc73c22&timestamp=1733817305: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.baidu.com' is therefore not allowed access.", source: https://www.baidu.com/ (0)
+[1210/155507.726:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD&fenlei=256&rsv_pq=0xccbbca1f007369b5&rsv_t=a50fX1SI1rcO99cANlBP9oO8HHMDPD3oWces98NfSDb%2BWQzTaasYxPEzbF7M&rqlang=en&rsv_dl=ts_0&rsv_enter=1&rsv_sug3=6&rsv_sug1=4&rsv_sug7=100&rsv_sug2=1&rsv_btype=i&prefixsug=huya&rsp=0&inputT=2148&rsv_sug4=3145' was loaded over HTTPS, but requested an insecure image 'http://gips1.baidu.com/it/u=355577189,585822712&fm=3041&app=3041&size=f242,162&n=0&g=0n&f=JPEG?s=60B21DD70E3046802684BDCA0300D035&sec=1733903707&t=252c547be3777db388db1b90cc316507'. This content should also be served over HTTPS.", source: https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD&fenlei=256&rsv_pq=0xccbbca1f007369b5&rsv_t=a50fX1SI1rcO99cANlBP9oO8HHMDPD3oWces98NfSDb%2BWQzTaasYxPEzbF7M&rqlang=en&rsv_dl=ts_0&rsv_enter=1&rsv_sug3=6&rsv_sug1=4&rsv_sug7=100&rsv_sug2=1&rsv_btype=i&prefixsug=huya&rsp=0&inputT=2148&rsv_sug4=3145 (0)
+[1210/155507.727:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD&fenlei=256&rsv_pq=0xccbbca1f007369b5&rsv_t=a50fX1SI1rcO99cANlBP9oO8HHMDPD3oWces98NfSDb%2BWQzTaasYxPEzbF7M&rqlang=en&rsv_dl=ts_0&rsv_enter=1&rsv_sug3=6&rsv_sug1=4&rsv_sug7=100&rsv_sug2=1&rsv_btype=i&prefixsug=huya&rsp=0&inputT=2148&rsv_sug4=3145' was loaded over HTTPS, but requested an insecure image 'http://gips1.baidu.com/it/u=355577189,585822712&fm=3041&app=3041&size=f242,162&n=0&g=0n&f=JPEG?s=60B21DD70E3046802684BDCA0300D035&sec=1733903707&t=252c547be3777db388db1b90cc316507'. This content should also be served over HTTPS.", source: https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD&fenlei=256&rsv_pq=0xccbbca1f007369b5&rsv_t=a50fX1SI1rcO99cANlBP9oO8HHMDPD3oWces98NfSDb%2BWQzTaasYxPEzbF7M&rqlang=en&rsv_dl=ts_0&rsv_enter=1&rsv_sug3=6&rsv_sug1=4&rsv_sug7=100&rsv_sug2=1&rsv_btype=i&prefixsug=huya&rsp=0&inputT=2148&rsv_sug4=3145 (0)
+[1210/155509.307:INFO:CONSOLE(7)] "JQMIGRATE: Logging is active", source: https://a.msstatic.com/huya/main3/common/jq_ud_674cb.js (7)
+[1210/155509.619:WARNING:PushPullFIFO.cpp(182)] PushPullFIFO: underflow while pulling (underflowCount=1, availableFrames=0, requestedFrames=480, fifoLength=8192)
+[1210/155509.711:INFO:CONSOLE(1)] "[ Timer worker init ]", source: blob:https://www.huya.com/c25f05f1-515b-496e-bd35-637570d8e1c5 (1)
+[1210/155509.711:INFO:CONSOLE(1)] "[ Timer worker init ]", source: blob:https://www.huya.com/f182df1f-5fe3-4046-a1d3-d0376e5ab88f (1)
+[1210/155509.711:INFO:CONSOLE(1)] "[ Timer worker init ]", source: blob:https://www.huya.com/f857c14b-3622-40cd-b214-8a2a6d6e355a (1)
+[1210/155509.727:INFO:CONSOLE(1)] "Uncaught TypeError: s is not a function", source: blob:https://www.huya.com/f182df1f-5fe3-4046-a1d3-d0376e5ab88f (1)
+[1210/155510.038:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[1210/155510.040:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1210/155510.047:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1210/155510.047:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1210/155520.258:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1210/155520.259:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1210/155520.260:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1210/155521.906:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1210/155521.908:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1210/155521.908:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1210/155522.236:INFO:CONSOLE(1)] "'webkitURL' is deprecated. Please use 'URL' instead.", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.29-min.js (1)
+[1210/155522.236:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1210/155522.237:INFO:CONSOLE(1)] "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.29-min.js (1)
+[1210/155522.237:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1210/155522.441:INFO:CONSOLE(1)] "[object HTMLDivElement]", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.23-min.js (1)
+[1210/155522.441:INFO:CONSOLE(1)] "", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.23-min.js (1)
+[1210/155522.442:INFO:CONSOLE(1)] "[object Object]", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.23-min.js (1)
+[1210/155522.442:INFO:CONSOLE(1)] "", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.23-min.js (1)
+[1210/155522.442:INFO:CONSOLE(1)] "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.23-min.js (1)
+[1210/155522.442:INFO:CONSOLE(1)] "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.23-min.js (1)
+[1210/155522.506:INFO:CONSOLE(1)] "[object HTMLDivElement]", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.23-min.js (1)
+[1210/155522.507:INFO:CONSOLE(1)] "", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.23-min.js (1)
+[1210/155522.507:INFO:CONSOLE(1)] "[object Object]", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.23-min.js (1)
+[1210/155522.507:INFO:CONSOLE(1)] "", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.23-min.js (1)
+[1210/155522.507:INFO:CONSOLE(1)] "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.23-min.js (1)
+[1210/155522.507:INFO:CONSOLE(1)] "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]", source: https://s1-static.msstatic.com/hydevice/hydevice-prod-1.2.23-min.js (1)
+[1210/155525.468:WARNING:PushPullFIFO.cpp(182)] PushPullFIFO: underflow while pulling (underflowCount=1, availableFrames=0, requestedFrames=480, fifoLength=8192)
+[1210/155525.489:INFO:CONSOLE(1)] "console.groupEnd", source: https://a.msstatic.com/huya/h5player/room/2412091153/vplayer.js (1)
+[1210/155525.505:INFO:CONSOLE(7)] "JQMIGRATE: Logging is active", source: https://a.msstatic.com/huya/main3/common/jq_ud_674cb.js (7)
+[1210/155525.555:INFO:CONSOLE(1)] "[ Timer worker init ]", source: blob:https://www.huya.com/84d58cfb-611e-4df5-bfea-e368bcf79180 (1)
+[1210/155525.555:INFO:CONSOLE(1)] "[ Timer worker init ]", source: blob:https://www.huya.com/9a22de17-706b-4d57-a27e-2a91cdb72d67 (1)
+[1210/155526.121:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.huya.com/qingyinfm' was loaded over HTTPS, but requested an insecure image 'http://livewebbs2.msstatic.com/star.png'. This content should also be served over HTTPS.", source: https://www.huya.com/qingyinfm (0)
+[1210/155527.066:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1210/155527.068:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1210/155527.068:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1210/155527.255:INFO:CONSOLE(1)] "[ Timer worker init ]", source: blob:https://www.huya.com/1e145e48-8ccc-4405-bf51-d2af9212320e (1)
+[1210/155527.535:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.537:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.538:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.539:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.539:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.540:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.540:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.540:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.541:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.541:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.541:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.542:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.542:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.542:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.542:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.542:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.543:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.543:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.543:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.544:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.544:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.544:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.544:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.544:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.545:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.545:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.545:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.545:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.546:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.546:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.546:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.546:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.546:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.547:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.547:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.547:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.547:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.547:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.547:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/hy-ext-web-comp/0.0.145/hy-ext-web-comp.js (1)
+[1210/155527.816:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/ext-web-sub-frame/0.0.145/hy-ext-sup.js (1)
+[1210/155527.824:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/ext-web-sub-frame/0.0.145/hy-ext-sup.js (1)
+[1210/155527.828:INFO:CONSOLE(1)] "Unrecognized feature: 'autoplay'.", source: https://hyext.msstatic.com/ext-web-mid/ext-web-sub-frame/0.0.145/hy-ext-sup.js (1)
+[1210/155528.094:INFO:CONSOLE(1)] "[ Timer worker init ]", source: blob:https://www.huya.com/7d6ff225-badb-4d6a-8150-81b3a7228a54 (1)
+[1210/155528.170:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1210/155528.172:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1210/155528.172:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1210/155528.200:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1210/155528.200:INFO:CONSOLE(15)] "'webkitURL' is deprecated. Please use 'URL' instead.", source: https://a.msstatic.com/huya/main3/node_modules/@mfe/core/chunk_d3499.js (15)
+[1210/155528.208:INFO:CONSOLE(5)] "sdkAnalysis=-104.09||sdkDuration=108.09||sdkVersion=v1.13.4", source: https://a.msstatic.com/huya/hd/cdn_libs/performance_report-min.js?time=1733468060617 (5)
+[1210/155528.226:ERROR:socket_dispatcher_host.cc(91)] Failed to resolve address for 786322235-v6-server.va.huya.com., errorcode: -105
+[1210/155528.227:ERROR:socket_dispatcher_host.cc(91)] Failed to resolve address for 786322235-v6-server.va.huya.com., errorcode: -105
+[1210/155528.227:WARNING:stunport.cc(381)] Jingle:Port[1510D848:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[1210/155528.227:WARNING:stunport.cc(381)] Jingle:Port[1510DE18:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[1210/155528.227:WARNING:stunport.cc(381)] Jingle:Port[1510DE18:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1210/155528.227:WARNING:stunport.cc(381)] Jingle:Port[1510DE18:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1210/155528.227:INFO:CONSOLE(5)] "sdkAnalysis=-100.56||sdkDuration=115.56||sdkVersion=v1.13.4", source: https://a.msstatic.com/huya/hd/cdn_libs/performance_report-min.js?time=1732073401080 (5)
+[1210/155528.340:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1210/155528.342:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1210/155528.342:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1210/155528.394:INFO:CONSOLE(5)] "sdkAnalysis=-118.21||sdkDuration=122.21||sdkVersion=v1.13.4", source: https://a.msstatic.com/huya/hd/cdn_libs/performance_report-min.js (5)
+[1210/155528.397:WARNING:stunport.cc(381)] Jingle:Port[15BCC4F8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1210/155528.651:WARNING:webrtcsession.cc(1692)] Candidate has an unknown component: Cand[:1731567522:2:udp:2130706431:59.37.145.42:8443:local::0:wSEHgfnvEtNOIvVr:gFngaKtcBrErJzxtHRRUbWKHQHTDQHGV:0:0:0] for content: data
+[1210/155528.651:WARNING:webrtcsession.cc(1692)] Candidate has an unknown component: Cand[:1109774416:2:udp:2130706431:58.254.139.40:8443:local::0:wSEHgfnvEtNOIvVr:gFngaKtcBrErJzxtHRRUbWKHQHTDQHGV:0:0:0] for content: data
+[1210/155528.651:WARNING:webrtcsession.cc(1692)] Candidate has an unknown component: Cand[:4195537079:2:udp:2130706431:120.232.185.38:8443:local::0:wSEHgfnvEtNOIvVr:gFngaKtcBrErJzxtHRRUbWKHQHTDQHGV:0:0:0] for content: data
+[1210/155529.303:INFO:CONSOLE(1)] "***BuildFloorPanel", source: https://extsdk-msstatic.cdn.huya.com/3/3.18.7/444/hyExt-web.js (1)
+[1210/155529.649:WARNING:PushPullFIFO.cpp(182)] PushPullFIFO: underflow while pulling (underflowCount=1, availableFrames=0, requestedFrames=480, fifoLength=8192)
+[1210/155529.827:INFO:CONSOLE(1)] "[ Timer worker init ]", source: blob:https://www.huya.com/1d8bb191-a572-48ac-81c0-29c084399259 (1)
+[1210/155529.911:INFO:CONSOLE(1)] "***PushActivityPanel", source: https://extsdk-msstatic.cdn.huya.com/3/3.18.7/444/hyExt-web.js (1)
+[1210/155529.913:INFO:CONSOLE(1)] "***BuildFloorPanel", source: https://extsdk-msstatic.cdn.huya.com/3/3.18.7/444/hyExt-web.js (1)
+[1210/155530.316:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1210/155530.318:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1210/155530.318:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1210/155530.339:WARNING:stunport.cc(381)] Jingle:Port[3167AD30:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1210/155532.002:INFO:CONSOLE(1)] "***BuildFloorPanel", source: https://extsdk-msstatic.cdn.huya.com/3/3.18.7/444/hyExt-web.js (1)
+[1210/155532.964:INFO:CONSOLE(1)] "***BuildFloorPanel", source: https://extsdk-msstatic.cdn.huya.com/3/3.18.7/444/hyExt-web.js (1)
+[1210/155533.934:INFO:CONSOLE(1)] "***BuildFloorPanel", source: https://extsdk-msstatic.cdn.huya.com/3/3.18.7/444/hyExt-web.js (1)
+[1210/161457.537:INFO:CONSOLE(14)] "Uncaught TypeError: window.ReceivedMsgFromJS is not a function", source: file:///G:/KikyoDemo/QCefBrowser/Debug/test.html (14)
+[1210/161458.489:INFO:CONSOLE(14)] "Uncaught TypeError: window.ReceivedMsgFromJS is not a function", source: file:///G:/KikyoDemo/QCefBrowser/Debug/test.html (14)
+[1210/161458.888:INFO:CONSOLE(14)] "Uncaught TypeError: window.ReceivedMsgFromJS is not a function", source: file:///G:/KikyoDemo/QCefBrowser/Debug/test.html (14)
+[1210/161459.041:INFO:CONSOLE(14)] "Uncaught TypeError: window.ReceivedMsgFromJS is not a function", source: file:///G:/KikyoDemo/QCefBrowser/Debug/test.html (14)
+[1210/163140.291:INFO:CONSOLE(271)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_97ee202.js (271)
+[1210/163140.292:INFO:CONSOLE(271)] "%c百度2025校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_97ee202.js (271)
+[1210/163140.739:INFO:CONSOLE(3)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: https://hectorstatic.baidu.com/96c9c06653ba892e.js (3)
+[1210/163140.739:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1210/163140.850:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[1210/163141.597:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
