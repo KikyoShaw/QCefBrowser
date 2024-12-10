@@ -465,6 +465,28 @@ QLineEdit
              </property>
             </widget>
            </item>
+           <item>
+            <widget class="QPushButton" name="pushButton_osr">
+             <property name="minimumSize">
+              <size>
+               <width>60</width>
+               <height>30</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>60</width>
+               <height>30</height>
+              </size>
+             </property>
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="text">
+              <string>osr</string>
+             </property>
+            </widget>
+           </item>
           </layout>
          </widget>
         </item>
@@ -487,7 +509,7 @@ QLineEdit
      <x>0</x>
      <y>0</y>
      <width>1600</width>
-     <height>23</height>
+     <height>18</height>
     </rect>
    </property>
   </widget>

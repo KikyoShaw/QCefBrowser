@@ -64,6 +64,12 @@
     <ClCompile Include="events.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CefOsrHandlerImp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CefOsrWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CefAppImp.h">
@@ -84,6 +90,9 @@
     <ClInclude Include="events.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CefOsrHandlerImp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="CefBrowserHandlerImp.h">
@@ -95,9 +104,15 @@
     <QtMoc Include="QCefWebView.h">
       <Filter>Header Files</Filter>
     </QtMoc>
+    <QtMoc Include="CefOsrWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
   </ItemGroup>
   <ItemGroup>
     <QtUic Include="mainwindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="CefOsrWidget.ui">
       <Filter>Form Files</Filter>
     </QtUic>
   </ItemGroup>

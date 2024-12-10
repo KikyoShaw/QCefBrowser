@@ -3,6 +3,7 @@
 #include <QTextCodec>
 #include <QFileDialog>
 #include "QCefBrowser.h"
+#include "CefOsrWidget.h"
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent)
@@ -21,6 +22,7 @@ MainWindow::MainWindow(QWidget *parent) :
 	connect(ui.pushButton_back, &QPushButton::clicked, ui.widget_web, &QCefWebView::back);
 	connect(ui.pushButton_forward, &QPushButton::clicked, ui.widget_web, &QCefWebView::forward);
 	connect(ui.pushButton_webp, &QPushButton::clicked, this, &MainWindow::sltLoadWebp);
+	connect(ui.pushButton_osr, &QPushButton::clicked, this, &MainWindow::sltLoadOsr);
 }
 
 MainWindow::~MainWindow()
@@ -76,3 +78,9 @@ void MainWindow::sltLoadWebp()
 		ui.widget_web->loadUrl(OpenFile);
 	}
 }
+
+void MainWindow::sltLoadOsr()
+{
+	//ÀëÆÁäÖÈ¾¼ûCefOsrWidget ²âÊÔÊ¾Àı
+}
+
