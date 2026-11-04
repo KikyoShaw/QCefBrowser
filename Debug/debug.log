@@ -5289,3 +5289,60 @@ C:\fakepath(73,9-43): warning X3571: pow(f, e) will not work for negative f, use
 [1104/203007.945:INFO:CONSOLE(1)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: https://hectorstatic.baidu.com/96c9c06653ba892e.js (1)
 [1104/203008.175:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
 [1104/203032.544:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1104/203405.463:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/203405.463:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/203405.566:INFO:CONSOLE(1)] "Error", source: https://hectorstatic.baidu.com/cd37ed75a9387c5b.js (1)
+[1104/203406.033:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1104/203406.033:INFO:CONSOLE(1)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: https://hectorstatic.baidu.com/96c9c06653ba892e.js (1)
+[1104/203406.336:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[1104/203406.938:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/203407.853:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/203407.854:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/203417.532:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/203417.962:INFO:CONSOLE(243)] "Uncaught SyntaxError: Unexpected token .", source: https://www.bilibili.com/ (243)
+[1104/203417.963:INFO:CONSOLE(244)] "vite: loading legacy chunks, syntax error above and the same error below should be ignored", source: https://www.bilibili.com/ (244)
+[1104/203418.094:INFO:CONSOLE(2)] "%c bili-fe-mirror %c v2.1.0 ", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/203418.990:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token .", source: https://s1.hdslb.com/bfs/static/shanks/laputa-home/assets/index-84fb5632.js (1)
+[1104/203420.639:INFO:CONSOLE(1)] "%c%s", source: https://s1.hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js (1)
+[1104/203420.968:INFO:CONSOLE(160)] "白屏检测是否正常", source: https://www.bilibili.com/ (160)
+[1104/203421.318:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[1104/203421.318:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[1104/203422.631:INFO:CONSOLE(1)] "%c%s", source: https://s1.hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js (1)
+[1104/203422.766:INFO:CONSOLE(2)] "%c bili-fe-mirror %c v2.1.0 ", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/203422.771:INFO:CONSOLE(13)] "白屏检测是否正常", source: https://www.bilibili.com/video/BV12DxW62EB1/?spm_id_from=333.1007.tianma.3-1-5.click (13)
+[1104/203425.369:INFO:CONSOLE(1)] "%c
+                     //
+         \\         //
+          \\       //
+    ##DDDDDDDDDDDDDDDDDDDDDD##
+    ## DDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+    ## hh                hh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+    ## hh    //    \\    hh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+    ## hh   //      \\   hh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+    ## hh                hh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+    ## hh      wwww      hh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+    ## hh                hh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+    ## MMMMMMMMMMMMMMMMMMMM ##
+    ##MMMMMMMMMMMMMMMMMMMMMM##                                          Release undefined@no release yet
+         \/            \/                                       Powered by @bilibili/jinkela-core@2.8.14", source: https://s1.hdslb.com/bfs/static/jinkela/video/video.8c3699a3aaf218112dadb300b3127b36bdacfe5c.js (1)
+[1104/203434.361:INFO:CONSOLE(0)] "Failed to load https://upos-lcdn-cqgl01.solseed.cn/upgcxcode/56/18/43233051856/43233051856-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&nbs=1&mid=0&os=upos&og=hw&uipk=5&oi=3085545997&platform=pc&gen=playurlv3&deadline=1793802873&trid=14de54c5c9844448b8b1188d7ce97deu&upsig=54c8751a1e79b876139b419556210b79&uparams=e,nbs,mid,os,og,uipk,oi,platform,gen,deadline,trid&bvc=vod&nettype=0&bw=66051&lrs=0&V=v3.0.9&dl=0&f=u_0_0&qn_dyeid=1526268bac97f4c300a6d5516aeb2659&agrr=0&buvid=C8C564B2-BF3F-487A-B4E6-A0099E597B6B56928infoc&build=0&orderid=0,3: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.bilibili.com' is therefore not allowed access.", source: https://www.bilibili.com/video/BV12DxW62EB1/?spm_id_from=333.1007.tianma.3-1-5.click (0)
+[1104/203434.364:INFO:CONSOLE(0)] "Failed to load https://upos-lcdn-cqgl01.solseed.cn/upgcxcode/56/18/43233051856/43233051856-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&deadline=1793802873&uipk=5&nbs=1&platform=pc&mid=0&gen=playurlv3&os=upos&trid=14de54c5c9844448b8b1188d7ce97deu&oi=3085545997&og=hw&upsig=6a1eb782a07e8b36bc3fd2b74bec3b7e&uparams=e,deadline,uipk,nbs,platform,mid,gen,os,trid,oi,og&bvc=vod&nettype=0&bw=819835&lrs=0&V=v3.0.9&agrr=0&buvid=C8C564B2-BF3F-487A-B4E6-A0099E597B6B56928infoc&build=0&dl=0&f=u_0_0&qn_dyeid=1526268bac97f4c300a6d5516aeb2659&orderid=0,3: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.bilibili.com' is therefore not allowed access.", source: https://www.bilibili.com/video/BV12DxW62EB1/?spm_id_from=333.1007.tianma.3-1-5.click (0)
+[1104/203434.604:INFO:CONSOLE(0)] "Failed to load https://upos-lcdn-cqgl01.solseed.cn/upgcxcode/56/18/43233051856/43233051856-1-30016.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&oi=3085545997&nbs=1&platform=pc&trid=14de54c5c9844448b8b1188d7ce97deu&os=upos&mid=0&deadline=1793802873&uipk=5&gen=playurlv3&og=hw&upsig=2c0c5fcea21144624e46ad2e5eb9cc52&uparams=e,oi,nbs,platform,trid,os,mid,deadline,uipk,gen,og&bvc=vod&nettype=0&bw=675663&lrs=0&V=v3.0.9&buvid=C8C564B2-BF3F-487A-B4E6-A0099E597B6B56928infoc&build=0&dl=0&f=u_0_0&qn_dyeid=1526268bac97f4c300a6d5516aeb2659&agrr=0&orderid=0,3: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.bilibili.com' is therefore not allowed access.", source: https://www.bilibili.com/video/BV12DxW62EB1/?spm_id_from=333.1007.tianma.3-1-5.click (0)
+[1104/203434.605:INFO:CONSOLE(0)] "Failed to load https://upos-lcdn-cqgl01.solseed.cn/upgcxcode/56/18/43233051856/43233051856-1-30016.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&oi=3085545997&nbs=1&platform=pc&trid=14de54c5c9844448b8b1188d7ce97deu&os=upos&mid=0&deadline=1793802873&uipk=5&gen=playurlv3&og=hw&upsig=2c0c5fcea21144624e46ad2e5eb9cc52&uparams=e,oi,nbs,platform,trid,os,mid,deadline,uipk,gen,og&bvc=vod&nettype=0&bw=675663&lrs=0&V=v3.0.9&buvid=C8C564B2-BF3F-487A-B4E6-A0099E597B6B56928infoc&build=0&dl=0&f=u_0_0&qn_dyeid=1526268bac97f4c300a6d5516aeb2659&agrr=0&orderid=0,3: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.bilibili.com' is therefore not allowed access.", source: https://www.bilibili.com/video/BV12DxW62EB1/?spm_id_from=333.1007.tianma.3-1-5.click (0)
+[1104/203434.620:INFO:CONSOLE(0)] "Failed to load https://upos-lcdn-cqgl01.solseed.cn/upgcxcode/56/18/43233051856/43233051856-1-30216.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&nbs=1&mid=0&os=upos&og=hw&uipk=5&oi=3085545997&platform=pc&gen=playurlv3&deadline=1793802873&trid=14de54c5c9844448b8b1188d7ce97deu&upsig=54c8751a1e79b876139b419556210b79&uparams=e,nbs,mid,os,og,uipk,oi,platform,gen,deadline,trid&bvc=vod&nettype=0&bw=66051&lrs=0&V=v3.0.9&dl=0&f=u_0_0&qn_dyeid=1526268bac97f4c300a6d5516aeb2659&agrr=0&buvid=C8C564B2-BF3F-487A-B4E6-A0099E597B6B56928infoc&build=0&orderid=0,3: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.bilibili.com' is therefore not allowed access.", source: https://www.bilibili.com/video/BV12DxW62EB1/?spm_id_from=333.1007.tianma.3-1-5.click (0)
+[1104/203437.533:WARNING:spdy_session.cc(2861)] Received WINDOW_UPDATE for invalid stream 397
+[1104/203437.533:WARNING:spdy_session.cc(2861)] Received WINDOW_UPDATE for invalid stream 399
+[1104/203437.533:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 397
+[1104/203437.533:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 399
+[1104/203437.536:WARNING:spdy_session.cc(2861)] Received WINDOW_UPDATE for invalid stream 401
+[1104/203437.537:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 401
+[1104/203437.541:WARNING:spdy_session.cc(2861)] Received WINDOW_UPDATE for invalid stream 403
+[1104/203437.541:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 403

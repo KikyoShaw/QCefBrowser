@@ -52,6 +52,26 @@ void CefOsrHandlerImp::RunBrowserAction(const BrowserAction& action)
     }
 }
 
+bool CefOsrHandlerImp::OnBeforePopup(CefRefPtr<CefBrowser> browser,
+    CefRefPtr<CefFrame> frame,
+    const CefString& target_url,
+    const CefString& target_frame_name,
+    WindowOpenDisposition target_disposition,
+    bool user_gesture,
+    const CefPopupFeatures& popupFeatures,
+    CefWindowInfo& windowInfo,
+    CefRefPtr<CefClient>& client,
+    CefBrowserSettings& settings,
+    bool* no_javascript_access)
+{
+    CEF_REQUIRE_UI_THREAD();
+    // Keep new-window links in this off-screen view.
+    if (!m_closeRequested && !target_url.empty()) {
+        browser->GetMainFrame()->LoadURL(target_url);
+    }
+    return true;
+}
+
 void CefOsrHandlerImp::OnAfterCreated(CefRefPtr<CefBrowser> browser)
 {
     CEF_REQUIRE_UI_THREAD();

@@ -31,6 +31,17 @@ public:
     CefRefPtr<CefLoadHandler> GetLoadHandler() OVERRIDE { return this; }
     CefRefPtr<CefRenderHandler> GetRenderHandler() OVERRIDE { return this; }
 
+    bool OnBeforePopup(CefRefPtr<CefBrowser> browser,
+        CefRefPtr<CefFrame> frame,
+        const CefString& target_url,
+        const CefString& target_frame_name,
+        WindowOpenDisposition target_disposition,
+        bool user_gesture,
+        const CefPopupFeatures& popupFeatures,
+        CefWindowInfo& windowInfo,
+        CefRefPtr<CefClient>& client,
+        CefBrowserSettings& settings,
+        bool* no_javascript_access) OVERRIDE;
     void OnAfterCreated(CefRefPtr<CefBrowser> browser) OVERRIDE;
     bool DoClose(CefRefPtr<CefBrowser> browser) OVERRIDE;
     void OnBeforeClose(CefRefPtr<CefBrowser> browser) OVERRIDE;
