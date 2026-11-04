@@ -5265,3 +5265,27 @@ C:\fakepath(73,9-43): warning X3571: pow(f, e) will not work for negative f, use
 [1104/202548.624:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
 [1104/202550.118:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
 [1104/202551.164:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1104/202943.159:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1653306264222_page1.svga", source: file:///G:/KikyoDemo/KikyoShaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[1104/202948.256:INFO:CONSOLE(145)] "svg结束", source: file:///G:/KikyoDemo/KikyoShaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (145)
+[1104/202948.257:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1643180186162_xingkongzhichuang8181788.webp", source: file:///G:/KikyoDemo/KikyoShaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[1104/202948.257:INFO:CONSOLE(85)] "remove", source: file:///G:/KikyoDemo/KikyoShaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (85)
+[1104/202948.257:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1643180186162_xingkongzhichuang8181788.webp", source: file:///G:/KikyoDemo/KikyoShaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[1104/202955.432:INFO:CONSOLE(41)] "https://yoyo-live-test-1305507516.cos.ap-guangzhou.myqcloud.com/cms/gift/1653306264222_page1.svga", source: file:///G:/KikyoDemo/KikyoShaw/QCefBrowser/QCefBrowser/animation/giftAnimation.js (41)
+[1104/203007.308:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/203007.308:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/203007.473:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 7
+[1104/203007.574:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/203007.574:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/203007.682:INFO:CONSOLE(1)] "Error", source: https://hectorstatic.baidu.com/cd37ed75a9387c5b.js (1)
+[1104/203007.945:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1104/203007.945:INFO:CONSOLE(1)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: https://hectorstatic.baidu.com/96c9c06653ba892e.js (1)
+[1104/203008.175:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[1104/203032.544:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1

@@ -1,5 +1,6 @@
 #include "mainwindow.h"
 #include <QDir>
+#include <QFileInfo>
 #include <QTextCodec>
 #include <QFileDialog>
 #include <QUrl>
@@ -56,7 +57,12 @@ void MainWindow::sltLoadTestWeb()
 	if (m_browser) {
 		//QString url = ui->lineEdit_url->text();
 		/*QString url = "https://www.bilibili.com/video/BV1pA411H7vg?from=search&seid=10147493024578840911";*/
-		QString url = "file:///E:/shaw/demo/github-shaw/QCefBrowser/QCefBrowser/animation/index.html";
+		const QDir applicationDir(QCoreApplication::applicationDirPath());
+		QString page = applicationDir.absoluteFilePath("animation/index.html");
+		if (!QFileInfo(page).isFile()) {
+			page = QDir::cleanPath(applicationDir.absoluteFilePath("../QCefBrowser/animation/index.html"));
+		}
+		const QString url = QUrl::fromLocalFile(page).toString(QUrl::FullyEncoded);
 		m_browser->openUrl(url);
 		m_browser->show();
 	}
