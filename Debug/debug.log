@@ -5346,3 +5346,42 @@ C:\fakepath(73,9-43): warning X3571: pow(f, e) will not work for negative f, use
 [1104/203437.537:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 401
 [1104/203437.541:WARNING:spdy_session.cc(2861)] Received WINDOW_UPDATE for invalid stream 403
 [1104/203437.541:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 403
+[1104/204503.697:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/204503.697:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/204503.824:INFO:CONSOLE(1)] "Error", source: https://hectorstatic.baidu.com/cd37ed75a9387c5b.js (1)
+[1104/204504.408:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1104/204504.408:INFO:CONSOLE(1)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: https://hectorstatic.baidu.com/96c9c06653ba892e.js (1)
+[1104/204504.690:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[1104/204510.731:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/204510.732:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/204513.289:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/204514.016:INFO:CONSOLE(2)] "Uncaught SyntaxError: Unexpected token .", source: https://ms.bdstatic.com/se/chat-search/static/pc/vendors-CmmtM7js.js (2)
+[1104/204522.403:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/204523.268:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/204523.268:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/204524.647:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/204524.648:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/204525.978:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/204526.717:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/204526.717:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/204529.389:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)

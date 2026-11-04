@@ -12,8 +12,14 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui.setupUi(this);
 
-    QString uri = QFileInfo(QCoreApplication::applicationDirPath()+"/test.html").absoluteFilePath();
-    ui.widget_html->loadUrl(uri);
+    const QUrl localPage = QUrl::fromLocalFile(
+        QDir(QCoreApplication::applicationDirPath()).absoluteFilePath("test.html"));
+    ui.widget_html->loadUrl(localPage);
+
+    const QString initialAddress = ui.lineEdit_url->text().trimmed();
+    if (!initialAddress.isEmpty()) {
+        ui.widget_web->loadUrl(QUrl::fromUserInput(initialAddress));
+    }
 
     connect(ui.widget_html, &QCefWebView::recvRenderMsg, this, &MainWindow::sltRecvJsMsg);
 	connect(ui.pushButton_toJs, &QPushButton::clicked, this, &MainWindow::sltSendMsgToJs);

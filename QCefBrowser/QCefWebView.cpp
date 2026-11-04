@@ -7,7 +7,7 @@
 #include "include/wrapper/cef_helpers.h"
 #include "include/base/cef_bind.h"
 
-#define DEFAULT_URL "http://43.138.196.60/"
+#define DEFAULT_URL "about:blank"
 
 static int s_browserHandlercount=0;
 static std::map<int,CefRefPtr<CefBrowserHandlerImp>> smap_browserHandlers=std::map<int,CefRefPtr<CefBrowserHandlerImp>>();
@@ -128,6 +128,10 @@ void QCefWebView::sltBrowserCreated()
     if (_needResize) {
         ResizeBrowser(size());
         _needResize = false;
+    }
+    if (_needLoad) {
+        _needLoad = false;
+        BrowserLoadUrl(_url);
     }
 }
 
