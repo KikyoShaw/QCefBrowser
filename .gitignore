@@ -1,6 +1,33 @@
-.vs
+# Visual Studio cache and per-user project settings
+/.vs/
+*.suo
+*.vcxproj.user
 
-QCefBrowser/Debug
+# Project build intermediates and Qt-generated files
+/QCefBrowser/Debug/
+/QCefBrowser/Release/
 
-QCefBrowser/Release
+# CEF-generated caches and logs
+/GPUCache/
+/QCefBrowser/GPUCache/
+/Debug/GPUCache/
+/Release/GPUCache/
+/debug.log
+/QCefBrowser/debug.log
+/Debug/debug.log
+/Release/debug.log
 
+# Generated application and linker outputs
+/Debug/QCefBrowser.exe
+/Debug/QCefBrowser.exp
+/Debug/QCefBrowser.lib
+/Debug/QCefBrowser.ilk
+/Debug/QCefBrowser.pdb
+/Release/QCefBrowser.exe
+/Release/QCefBrowser.exp
+/Release/QCefBrowser.lib
+/Release/QCefBrowser.ilk
+/Release/QCefBrowser.pdb
+
+# Keep CEF headers/libraries and the runtime resources in /Debug and /Release.
+# These include DLLs, pak files, locales, snapshots, and test HTML pages.
