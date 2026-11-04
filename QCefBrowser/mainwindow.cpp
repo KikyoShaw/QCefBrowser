@@ -2,6 +2,7 @@
 #include <QDir>
 #include <QTextCodec>
 #include <QFileDialog>
+#include <QUrl>
 #include "QCefBrowser.h"
 #include "CefOsrWidget.h"
 
@@ -81,6 +82,12 @@ void MainWindow::sltLoadWebp()
 
 void MainWindow::sltLoadOsr()
 {
-	//ÀëÆÁäÖÈ¾¼ûCefOsrWidget ²âÊÔÊ¾Àý
+    const QString address = ui.lineEdit_url->text().trimmed();
+    const QUrl url = address.isEmpty()
+        ? QUrl::fromLocalFile(QCoreApplication::applicationDirPath() + "/test.html")
+        : QUrl::fromUserInput(address);
+    auto browser = new CefOsrWidget(url.toString(QUrl::FullyEncoded));
+    browser->setAttribute(Qt::WA_DeleteOnClose);
+    browser->show();
 }
 

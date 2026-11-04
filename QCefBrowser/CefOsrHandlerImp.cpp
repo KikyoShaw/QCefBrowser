@@ -1,41 +1,20 @@
 #include "CefOsrHandlerImp.h"
 
-#include <sstream>
-#include <string>
-#include <QDebug>
-#include <QDateTime>
-#include <QBuffer>
-#include <QPixmap>
-#include <QtWin>
-
 #include <QCoreApplication>
-
+#include <QMutexLocker>
+#include <QString>
 #include "include/base/cef_bind.h"
-#include "include/cef_app.h"
-#include "include/views/cef_browser_view.h"
-#include "include/views/cef_window.h"
 #include "include/wrapper/cef_closure_task.h"
 #include "include/wrapper/cef_helpers.h"
 #include "events.h"
 
-namespace {
-
-    CefOsrHandlerImp* g_instance = NULL;
-
-}  // namespace
-
-CefOsrHandlerImp::CefOsrHandlerImp(bool use_views)
-    : use_views_(use_views), is_closing_(false) {
-    DCHECK(!g_instance);
-    g_instance = this;
-
-    m_bMouseCursorChangeDisabled = false;
-
-    m_receiver = nullptr;
+CefOsrHandlerImp::CefOsrHandlerImp()
+    : m_closeRequested(false), m_hwnd(nullptr), m_receiver(nullptr)
+{
 }
 
-CefOsrHandlerImp::~CefOsrHandlerImp() {
-    g_instance = nullptr;
+CefOsrHandlerImp::~CefOsrHandlerImp()
+{
 }
 
 void CefOsrHandlerImp::setWinHandle(HWND hwnd)
@@ -45,57 +24,83 @@ void CefOsrHandlerImp::setWinHandle(HWND hwnd)
 
 void CefOsrHandlerImp::setReceiver(QObject* receiver)
 {
+    QMutexLocker lock(&m_receiverLock);
     m_receiver = receiver;
 }
 
-// static
-CefOsrHandlerImp* CefOsrHandlerImp::GetInstance() {
-    return g_instance;
+void CefOsrHandlerImp::postEvent(QEvent* event)
+{
+    QMutexLocker lock(&m_receiverLock);
+    if (m_receiver) {
+        QCoreApplication::postEvent(m_receiver, event);
+    }
+    else {
+        delete event;
+    }
 }
 
-void CefOsrHandlerImp::OnAfterCreated(CefRefPtr<CefBrowser> browser) {
-    CEF_REQUIRE_UI_THREAD()
+void CefOsrHandlerImp::RunBrowserAction(const BrowserAction& action)
+{
+    if (!CefCurrentlyOn(TID_UI)) {
+        CefPostTask(TID_UI, base::Bind(&CefOsrHandlerImp::RunBrowserAction,
+            CefRefPtr<CefOsrHandlerImp>(this), action));
+        return;
+    }
 
-        if (m_bMouseCursorChangeDisabled)
-            browser->GetHost()->SetMouseCursorChangeDisabled(true);
-        else
-            browser->GetHost()->SetMouseCursorChangeDisabled(false);
+    if (!m_closeRequested && !browser_list_.empty()) {
+        action(browser_list_.front());
+    }
+}
 
-    // Add to the list of existing browsers.
+void CefOsrHandlerImp::OnAfterCreated(CefRefPtr<CefBrowser> browser)
+{
+    CEF_REQUIRE_UI_THREAD();
     browser_list_.push_back(browser);
+    if (m_closeRequested) {
+        browser->GetHost()->CloseBrowser(true);
+        return;
+    }
+    browser->GetHost()->SetMouseCursorChangeDisabled(false);
+    postEvent(new BrowserReadyEvent());
 }
 
-bool CefOsrHandlerImp::DoClose(CefRefPtr<CefBrowser> browser) {
-    CEF_REQUIRE_UI_THREAD()
-
-        // Closing the main window requires special handling. See the DoClose()
-        // documentation in the CEF header for a detailed destription of this
-        // process.
-        if (browser_list_.size() == 1) {
-            // Set a flag to indicate that the window close should be allowed.
-            is_closing_ = true;
-        }
-
-    // Allow the close. For windowed browsers this will result in the OS close
-    // event being sent.
+bool CefOsrHandlerImp::DoClose(CefRefPtr<CefBrowser> browser)
+{
+    CEF_REQUIRE_UI_THREAD();
+    if (browser_list_.size() == 1) {
+        m_closeRequested = true;
+    }
     return false;
 }
 
-void CefOsrHandlerImp::OnBeforeClose(CefRefPtr<CefBrowser> browser) {
-    CEF_REQUIRE_UI_THREAD()
-
-        // Remove from the list of existing browsers.
-        BrowserList::iterator bit = browser_list_.begin();
-    for (; bit != browser_list_.end(); ++bit) {
-        if ((*bit)->IsSame(browser)) {
-            browser_list_.erase(bit);
+void CefOsrHandlerImp::OnBeforeClose(CefRefPtr<CefBrowser> browser)
+{
+    CEF_REQUIRE_UI_THREAD();
+    for (auto it = browser_list_.begin(); it != browser_list_.end(); ++it) {
+        if ((*it)->IsSame(browser)) {
+            browser_list_.erase(it);
             break;
         }
     }
-
     if (browser_list_.empty()) {
-        // All browser windows have closed. Quit the application message loop.
-        CefQuitMessageLoop();
+        m_closeRequested = true;
+        postEvent(new BrowserClosedEvent());
+    }
+}
+
+void CefOsrHandlerImp::CloseAllBrowsers(bool force_close)
+{
+    if (!CefCurrentlyOn(TID_UI)) {
+        CefPostTask(TID_UI, base::Bind(&CefOsrHandlerImp::CloseAllBrowsers,
+            CefRefPtr<CefOsrHandlerImp>(this), force_close));
+        return;
+    }
+
+    // Keep the request even when asynchronous creation has not completed yet.
+    m_closeRequested = true;
+    const auto browsers = browser_list_;
+    for (const auto& browser : browsers) {
+        browser->GetHost()->CloseBrowser(force_close);
     }
 }
 
@@ -103,97 +108,70 @@ void CefOsrHandlerImp::OnLoadError(CefRefPtr<CefBrowser> browser,
     CefRefPtr<CefFrame> frame,
     ErrorCode errorCode,
     const CefString& errorText,
-    const CefString& failedUrl) {
-    CEF_REQUIRE_UI_THREAD()
-
-        qDebug() << "errorCode: " << errorCode;
-
-    // Don't display an error for downloaded files.
-    if (errorCode == ERR_ABORTED)
-        return;
-
-    // Display a load error message.
-    std::stringstream ss;
-    ss << "<html><body bgcolor=\"white\">"
-        "<h2>Failed to load URL "
-        << std::string(failedUrl) << " with error " << std::string(errorText)
-        << " (" << errorCode << ").</h2></body></html>";
-    frame->LoadString(ss.str(), failedUrl);
-}
-
-void CefOsrHandlerImp::CloseAllBrowsers(bool force_close) {
-    if (!CefCurrentlyOn(TID_UI)) {
-        // Execute on the UI thread.
-        CefPostTask(TID_UI, base::Bind(&CefOsrHandlerImp::CloseAllBrowsers, this,
-            force_close));
+    const CefString& failedUrl)
+{
+    CEF_REQUIRE_UI_THREAD();
+    if (errorCode == ERR_ABORTED || m_closeRequested) {
         return;
     }
 
-    if (browser_list_.empty())
-        return;
-
-    BrowserList::const_iterator it = browser_list_.begin();
-    for (; it != browser_list_.end(); ++it)
-        (*it)->GetHost()->CloseBrowser(force_close);
-}
-
-std::list<CefRefPtr<CefBrowser> > CefOsrHandlerImp::getCefBrowerList()
-{
-    return browser_list_;
+    const QString html = QStringLiteral(
+        "<html><body><h2>Failed to load URL</h2><p>%1</p><p>%2 (%3)</p></body></html>")
+        .arg(QString::fromStdWString(failedUrl.ToWString()).toHtmlEscaped())
+        .arg(QString::fromStdWString(errorText.ToWString()).toHtmlEscaped())
+        .arg(static_cast<int>(errorCode));
+    frame->LoadString(html.toStdWString(), failedUrl);
 }
 
 bool CefOsrHandlerImp::GetViewRect(CefRefPtr<CefBrowser> browser, CefRect& rect)
 {
     RECT clientRect;
-    if (!::GetClientRect(m_hwnd, &clientRect))
+    if (!::GetClientRect(m_hwnd, &clientRect)) {
         return false;
-
-    rect.x = rect.y = 0;
-    rect.width = clientRect.right;
-    rect.height = clientRect.bottom;
-
+    }
+    rect = CefRect(0, 0, qMax(1L, clientRect.right - clientRect.left),
+        qMax(1L, clientRect.bottom - clientRect.top));
     return true;
 }
 
 void CefOsrHandlerImp::OnPaint(CefRefPtr<CefBrowser> browser,
-    CefRenderHandler::PaintElementType type,
-    const CefRenderHandler::RectList& dirtyRects,
+    PaintElementType type,
+    const RectList& dirtyRects,
     const void* buffer,
     int width,
     int height)
 {
-    HBITMAP bitmap = CreateBitmap(width, height, 1, 32, buffer);
-    QImage image = QtWin::imageFromHBITMAP(bitmap);
-
-    if (image.isNull())
-    {
-        qDebug() << "image is null";
+    if (m_closeRequested || type != PET_VIEW || !buffer || width <= 0 || height <= 0) {
         return;
     }
 
-    //以下为测试代码，将图片写到文件中去
-    //QString fileName = QString("D:/1/%1.png").arg(QDateTime::currentMSecsSinceEpoch());
-    //image.save(fileName, "PNG");
-
-    UpdateEvent* updateEvent = new UpdateEvent(image);
-    QCoreApplication::postEvent(m_receiver, updateEvent);
+    // The CEF buffer is valid only during this callback; Qt owns the copied frame.
+    const QImage view(static_cast<const uchar*>(buffer), width, height,
+        width * 4, QImage::Format_ARGB32_Premultiplied);
+    const QImage image = view.copy();
+    if (!image.isNull()) {
+        postEvent(new UpdateEvent(image));
+    }
 }
 
-void CefOsrHandlerImp::OnCursorChange(CefRefPtr<CefBrowser> browser, CefCursorHandle cursor, CefRenderHandler::CursorType type, const CefCursorInfo& custom_cursor_info)
+void CefOsrHandlerImp::OnCursorChange(CefRefPtr<CefBrowser> browser,
+    CefCursorHandle cursor,
+    CursorType type,
+    const CefCursorInfo& custom_cursor_info)
 {
-    ChangeCursorEvent* changeCursorEvent = new ChangeCursorEvent(type);
-    QCoreApplication::postEvent(m_receiver, changeCursorEvent);
-
-    //    ::SetCursor(cursor);
+    if (!m_closeRequested) {
+        postEvent(new ChangeCursorEvent(type));
+    }
 }
 
-bool CefOsrHandlerImp::GetScreenPoint(CefRefPtr<CefBrowser> browser, int viewX, int viewY, int& screenX, int& screenY)
+bool CefOsrHandlerImp::GetScreenPoint(CefRefPtr<CefBrowser> browser,
+    int viewX, int viewY, int& screenX, int& screenY)
 {
-    RECT clientRect;
-    if (!::GetWindowRect(m_hwnd, &clientRect))
+    POINT point = { viewX, viewY };
+    if (!::ClientToScreen(m_hwnd, &point)) {
         return false;
-
-    screenX = clientRect.left + viewX;
-    screenY = clientRect.top + viewY;
+    }
+    screenX = point.x;
+    screenY = point.y;
     return true;
 }

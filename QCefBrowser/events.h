@@ -28,4 +28,18 @@ public:
     explicit ReloadBrowerEvent();
 };
 
+class BrowserReadyEvent : public QEvent
+{
+public:
+    const static Type eventType = static_cast<Type>(QEvent::User + 4);
+    BrowserReadyEvent();
+};
+
+class BrowserClosedEvent : public QEvent
+{
+public:
+    const static Type eventType = static_cast<Type>(QEvent::User + 5);
+    BrowserClosedEvent();
+};
+
 #endif // EVENTS_H

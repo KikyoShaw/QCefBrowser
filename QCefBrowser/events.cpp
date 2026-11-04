@@ -14,3 +14,11 @@ ReloadBrowerEvent::ReloadBrowerEvent() :QEvent(eventType)
 {
     //TODO 目前不需要啥操作，有业务自己写就行
 }
+
+BrowserReadyEvent::BrowserReadyEvent() : QEvent(eventType)
+{
+}
+
+BrowserClosedEvent::BrowserClosedEvent() : QEvent(eventType)
+{
+}

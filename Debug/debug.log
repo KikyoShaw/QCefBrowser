@@ -5035,3 +5035,233 @@ C:\fakepath(73,9-43): warning X3571: pow(f, e) will not work for negative f, use
 [1019/160818.582:WARNING:PushPullFIFO.cpp(182)] PushPullFIFO: underflow while pulling (underflowCount=1, availableFrames=0, requestedFrames=480, fifoLength=8192)
 [1019/160819.174:INFO:CONSOLE(1)] "[gray] 未开启灰度", source: https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13709144034126589273 (1)
 [1019/160819.174:INFO:CONSOLE(1)] "[gray] 已删除缓存:", source: https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13709144034126589273 (1)
+[1104/195224.604:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/195224.604:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/195224.708:INFO:CONSOLE(1)] "Error", source: https://hectorstatic.baidu.com/cd37ed75a9387c5b.js (1)
+[1104/195225.120:INFO:CONSOLE(1)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: https://hectorstatic.baidu.com/96c9c06653ba892e.js (1)
+[1104/195225.120:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1104/195225.390:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[1104/195226.397:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/195227.196:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/195227.196:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/195238.870:ERROR:render_widget_host_view_aura.cc(1340)] NOT IMPLEMENTED
+[1104/195238.870:ERROR:render_widget_host_view_aura.cc(1340)] NOT IMPLEMENTED
+[1104/195240.149:ERROR:render_widget_host_view_aura.cc(1340)] NOT IMPLEMENTED
+[1104/195240.149:ERROR:render_widget_host_view_aura.cc(1340)] NOT IMPLEMENTED
+[1104/195244.279:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/195247.906:INFO:CONSOLE(243)] "Uncaught SyntaxError: Unexpected token .", source: https://www.bilibili.com/ (243)
+[1104/195247.906:INFO:CONSOLE(244)] "vite: loading legacy chunks, syntax error above and the same error below should be ignored", source: https://www.bilibili.com/ (244)
+[1104/195248.157:INFO:CONSOLE(2)] "%c bili-fe-mirror %c v2.1.0 ", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195248.167:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token .", source: https://s1.hdslb.com/bfs/static/shanks/laputa-home/assets/index-84fb5632.js (1)
+[1104/195249.419:INFO:CONSOLE(160)] "白屏检测是否正常", source: https://www.bilibili.com/ (160)
+[1104/195249.734:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[1104/195249.735:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[1104/195255.053:INFO:CONSOLE(1)] "%c%s", source: https://s1.hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js (1)
+[1104/195257.099:INFO:CONSOLE(1)] "%c%s", source: https://s1.hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js (1)
+[1104/195257.164:INFO:CONSOLE(2)] "%c bili-fe-mirror %c v2.1.0 ", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195257.247:INFO:CONSOLE(5)] "白屏检测是否正常", source: https://www.bilibili.com/video/BV1WkxP6nEd6/?spm_id_from=333.1007.tianma.3-2-6.click (5)
+[1104/195259.707:INFO:CONSOLE(1)] "%c
+                     //
+         \\         //
+          \\       //
+    ##DDDDDDDDDDDDDDDDDDDDDD##
+    ## DDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+    ## hh                hh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+    ## hh    //    \\    hh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+    ## hh   //      \\   hh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+    ## hh                hh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+    ## hh      wwww      hh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+    ## hh                hh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+    ## MMMMMMMMMMMMMMMMMMMM ##
+    ##MMMMMMMMMMMMMMMMMMMMMM##                                          Release undefined@no release yet
+         \/            \/                                       Powered by @bilibili/jinkela-core@2.8.14", source: https://s1.hdslb.com/bfs/static/jinkela/video/video.8c3699a3aaf218112dadb300b3127b36bdacfe5c.js (1)
+[1104/195319.342:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[1104/195319.345:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1104/195319.353:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1104/195319.353:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1104/195319.362:INFO:CONSOLE(2)] "Uncaught (in promise) SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195319.364:WARNING:stunport.cc(381)] Jingle:Port[0E5DD5C0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1104/195319.403:INFO:CONSOLE(2)] "Uncaught SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195319.409:INFO:CONSOLE(2)] "[Mirror]: 无法解析的错误:", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195319.612:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1104/195319.613:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1104/195319.614:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1104/195319.614:INFO:CONSOLE(2)] "Uncaught (in promise) SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195319.615:WARNING:stunport.cc(381)] Jingle:Port[0E5DF8A0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1104/195319.655:INFO:CONSOLE(2)] "Uncaught SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195319.658:INFO:CONSOLE(2)] "[Mirror]: 无法解析的错误:", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195325.818:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1104/195325.820:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1104/195325.821:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1104/195325.823:INFO:CONSOLE(2)] "Uncaught (in promise) SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195325.823:WARNING:stunport.cc(381)] Jingle:Port[382C37B8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1104/195325.861:INFO:CONSOLE(2)] "Uncaught SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195325.893:INFO:CONSOLE(2)] "[Mirror]: 无法解析的错误:", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195325.998:INFO:CONSOLE(1)] "TypeError: Failed to execute 'observe' on 'PerformanceObserver': required member entryTypes is undefined.", source: https://s1.hdslb.com/bfs/static/player/main/core.befa0edb.js (1)
+[1104/195326.201:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1104/195326.203:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1104/195326.203:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1104/195326.204:INFO:CONSOLE(2)] "Uncaught (in promise) SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195326.205:WARNING:stunport.cc(381)] Jingle:Port[0C3AB2C0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1104/195326.243:INFO:CONSOLE(2)] "Uncaught SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195326.258:INFO:CONSOLE(2)] "[Mirror]: 无法解析的错误:", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195328.165:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1104/195328.166:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1104/195328.167:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1104/195328.167:INFO:CONSOLE(2)] "Uncaught (in promise) SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195328.168:WARNING:stunport.cc(381)] Jingle:Port[0C3ACCE8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1104/195328.206:INFO:CONSOLE(2)] "Uncaught SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195328.224:INFO:CONSOLE(2)] "[Mirror]: 无法解析的错误:", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195328.394:INFO:CONSOLE(0)] "Failed to load https://xy113x207x85x211xy.mcdn.bilivideo.cn:8082/v1/resource/upgcxcode/24/46/43316544624/43316544624-1-30216.m4s?V=v3.0.9&agrr=0&build=0&buvid=9C8567B3-FD88-88D1-C849-A5F0FE12EC4663619infoc&bvc=vod&bw=66078&deadline=1793800396&dl=0&e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M%3D&f=u_0_0&gen=playurlv3&lrs=82&mcdnid=50061267&mid=0&nbs=1&nettype=0&og=hw&oi=3395789407&orderid=0%2C3&os=mcdn&platform=pc&prs=2&qn_dyeid=08d39cf81e38ab270034fa806aeb1cac&sche=rspull&sign=fc2634&traceid=trxXAKYABSXzvQ_0_e_N&u=0.53&uipk=5&uparams=e%2Ctrid%2Cnbs%2Cuipk%2Cplatform%2Cdeadline%2Coi%2Cgen%2Cmid%2Cos%2Cog&upsig=322a7fe9d4a1ae5c939aada4ef1b88cc: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.bilibili.com' is therefore not allowed access. The response had HTTP status code 404.", source: https://www.bilibili.com/video/BV1fZxQ6yE8C?spm_id_from=333.788.videopod.sections (0)
+[1104/195330.829:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1104/195330.831:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1104/195330.831:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1104/195330.832:INFO:CONSOLE(2)] "Uncaught (in promise) SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195330.832:WARNING:stunport.cc(381)] Jingle:Port[0C3AA150:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1104/195330.874:INFO:CONSOLE(2)] "Uncaught SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195330.891:INFO:CONSOLE(2)] "[Mirror]: 无法解析的错误:", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195330.910:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1104/195330.912:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1104/195330.912:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1104/195330.913:INFO:CONSOLE(2)] "Uncaught (in promise) SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195330.913:WARNING:stunport.cc(381)] Jingle:Port[0C3AD2B8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1104/195330.953:INFO:CONSOLE(2)] "Uncaught SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195330.957:INFO:CONSOLE(2)] "[Mirror]: 无法解析的错误:", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195332.959:INFO:CONSOLE(0)] "Failed to load https://xy113x207x85x211xy.mcdn.bilivideo.cn:8082/v1/resource/upgcxcode/24/46/43316544624/43316544624-1-30216.m4s?V=v3.0.9&agrr=0&build=0&buvid=9C8567B3-FD88-88D1-C849-A5F0FE12EC4663619infoc&bvc=vod&bw=66078&deadline=1793800396&dl=0&e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M%3D&f=u_0_0&gen=playurlv3&lrs=82&mcdnid=50061267&mid=0&nbs=1&nettype=0&og=hw&oi=3395789407&orderid=0%2C3&os=mcdn&platform=pc&prs=2&qn_dyeid=08d39cf81e38ab270034fa806aeb1cac&sche=rspull&sign=fc2634&traceid=trxXAKYABSXzvQ_0_e_N&u=0.53&uipk=5&uparams=e%2Ctrid%2Cnbs%2Cuipk%2Cplatform%2Cdeadline%2Coi%2Cgen%2Cmid%2Cos%2Cog&upsig=322a7fe9d4a1ae5c939aada4ef1b88cc: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.bilibili.com' is therefore not allowed access. The response had HTTP status code 404.", source: https://www.bilibili.com/video/BV1fZxQ6yE8C?spm_id_from=333.788.videopod.sections (0)
+[1104/195334.073:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1104/195334.075:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1104/195334.075:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1104/195334.076:INFO:CONSOLE(2)] "Uncaught (in promise) SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195334.077:WARNING:stunport.cc(381)] Jingle:Port[0C3ACFD0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1104/195334.117:INFO:CONSOLE(2)] "Uncaught SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195334.123:INFO:CONSOLE(2)] "[Mirror]: 无法解析的错误:", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195334.340:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1104/195334.342:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1104/195334.342:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1104/195334.343:INFO:CONSOLE(2)] "Uncaught (in promise) SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195334.344:WARNING:stunport.cc(381)] Jingle:Port[0C3A9E68:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1104/195334.382:INFO:CONSOLE(2)] "Uncaught SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195334.391:INFO:CONSOLE(2)] "[Mirror]: 无法解析的错误:", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195336.111:INFO:CONSOLE(0)] "Failed to load https://xy113x207x85x211xy.mcdn.bilivideo.cn:8082/v1/resource/upgcxcode/24/46/43316544624/43316544624-1-30216.m4s?V=v3.0.9&agrr=0&build=0&buvid=9C8567B3-FD88-88D1-C849-A5F0FE12EC4663619infoc&bvc=vod&bw=66078&deadline=1793800396&dl=0&e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M%3D&f=u_0_0&gen=playurlv3&lrs=82&mcdnid=50061267&mid=0&nbs=1&nettype=0&og=hw&oi=3395789407&orderid=0%2C3&os=mcdn&platform=pc&prs=2&qn_dyeid=08d39cf81e38ab270034fa806aeb1cac&sche=rspull&sign=fc2634&traceid=trxXAKYABSXzvQ_0_e_N&u=0.53&uipk=5&uparams=e%2Ctrid%2Cnbs%2Cuipk%2Cplatform%2Cdeadline%2Coi%2Cgen%2Cmid%2Cos%2Cog&upsig=322a7fe9d4a1ae5c939aada4ef1b88cc: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.bilibili.com' is therefore not allowed access. The response had HTTP status code 404.", source: https://www.bilibili.com/video/BV1fZxQ6yE8C?spm_id_from=333.788.videopod.sections (0)
+[1104/195337.227:WARNING:delay_based_bwe.cc(326)] BWE Setting start bitrate to: 300000
+[1104/195337.228:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 103 to 127
+[1104/195337.228:WARNING:mediasession.cc(376)] Duplicate id found. Reassigning from 104 to 125
+[1104/195337.229:INFO:CONSOLE(2)] "Uncaught (in promise) SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195337.230:WARNING:stunport.cc(381)] Jingle:Port[0C3AA438:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[1104/195337.282:INFO:CONSOLE(2)] "Uncaught SyntaxError: Invalid regular expression: /^(?<cid>\d+)(?<barrier>[-_].*[-_])(?<qn>\d+)\.m4s$/: Invalid group", source: https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js (2)
+[1104/195337.291:INFO:CONSOLE(2)] "[Mirror]: 无法解析的错误:", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195339.268:INFO:CONSOLE(0)] "Failed to load https://xy113x207x85x211xy.mcdn.bilivideo.cn:8082/v1/resource/upgcxcode/24/46/43316544624/43316544624-1-30216.m4s?V=v3.0.9&agrr=0&build=0&buvid=9C8567B3-FD88-88D1-C849-A5F0FE12EC4663619infoc&bvc=vod&bw=66078&deadline=1793800396&dl=0&e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M%3D&f=u_0_0&gen=playurlv3&lrs=82&mcdnid=50061267&mid=0&nbs=1&nettype=0&og=hw&oi=3395789407&orderid=0%2C3&os=mcdn&platform=pc&prs=2&qn_dyeid=08d39cf81e38ab270034fa806aeb1cac&sche=rspull&sign=fc2634&traceid=trxXAKYABSXzvQ_0_e_N&u=0.53&uipk=5&uparams=e%2Ctrid%2Cnbs%2Cuipk%2Cplatform%2Cdeadline%2Coi%2Cgen%2Cmid%2Cos%2Cog&upsig=322a7fe9d4a1ae5c939aada4ef1b88cc: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.bilibili.com' is therefore not allowed access. The response had HTTP status code 404.", source: https://www.bilibili.com/video/BV1fZxQ6yE8C?spm_id_from=333.788.videopod.sections (0)
+[1104/195341.032:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/195341.032:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/195341.768:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/195342.400:INFO:CONSOLE(1)] "%c%s", source: https://s1.hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js (1)
+[1104/195342.533:INFO:CONSOLE(2)] "%c bili-fe-mirror %c v2.1.0 ", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195342.537:INFO:CONSOLE(5)] "白屏检测是否正常", source: https://www.bilibili.com/video/BV1fZxQ6yE8C/?spm_id_from=333.788.videopod.sections (5)
+[1104/195343.816:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/195343.816:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/195344.633:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/195345.343:INFO:CONSOLE(1)] "%c%s", source: https://s1.hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js (1)
+[1104/195345.474:INFO:CONSOLE(2)] "%c bili-fe-mirror %c v2.1.0 ", source: https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js (2)
+[1104/195345.481:INFO:CONSOLE(5)] "白屏检测是否正常", source: https://www.bilibili.com/video/BV1fZxQ6yE8C/?spm_id_from=333.788.videopod.sections (5)
+[1104/195348.092:INFO:CONSOLE(1)] "%c
+                     //
+         \\         //
+          \\       //
+    ##DDDDDDDDDDDDDDDDDDDDDD##
+    ## DDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+    ## hh                hh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+    ## hh    //    \\    hh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+    ## hh   //      \\   hh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+    ## hh                hh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+    ## hh      wwww      hh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+    ## hh                hh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+    ## MMMMMMMMMMMMMMMMMMMM ##
+    ##MMMMMMMMMMMMMMMMMMMMMM##                                          Release undefined@no release yet
+         \/            \/                                       Powered by @bilibili/jinkela-core@2.8.14", source: https://s1.hdslb.com/bfs/static/jinkela/video/video.8c3699a3aaf218112dadb300b3127b36bdacfe5c.js (1)
+[1104/195350.846:ERROR:quota_settings.cc(95)] Unable to compute QuotaSettings.
+[1104/195350.847:WARNING:quota_manager.cc(1629)] No storage quota provided in QuotaSettings.
+[1104/195358.001:INFO:CONSOLE(0)] "Failed to load https://xy113x207x85x211xy.mcdn.bilivideo.cn:8082/v1/resource/upgcxcode/24/46/43316544624/43316544624-1-30216.m4s?V=v3.0.8&agrr=0&build=0&buvid=9C8567B3-FD88-88D1-C849-A5F0FE12EC4663619infoc&bvc=vod&bw=66078&deadline=1793800435&dl=0&e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M%3D&f=u_0_0&gen=playurlv3&lrs=82&mcdnid=50062954&mid=0&nbs=1&nettype=0&og=hw&oi=3395789407&orderid=0%2C3&os=mcdn&platform=pc&prs=2&qn_dyeid=4b39b4390add35d90074c1fb6aeb1cd3&sche=rspull&sign=fc2634&traceid=trLLTftBDaYXGA_0_e_N&u=0.49&uipk=5&uparams=e%2Ctrid%2Cdeadline%2Cnbs%2Cplatform%2Cgen%2Cos%2Coi%2Cuipk%2Cmid%2Cog&upsig=30c7462657aa782e6b2ae789d7c2233d: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.bilibili.com' is therefore not allowed access. The response had HTTP status code 404.", source: https://www.bilibili.com/video/BV1fZxQ6yE8C/?spm_id_from=333.788.videopod.sections (0)
+[1104/201946.872:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/201946.872:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/201947.078:INFO:CONSOLE(1)] "Error", source: https://hectorstatic.baidu.com/cd37ed75a9387c5b.js (1)
+[1104/201947.773:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1104/201947.773:INFO:CONSOLE(1)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: https://hectorstatic.baidu.com/96c9c06653ba892e.js (1)
+[1104/201948.050:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[1104/201956.036:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/201956.036:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/201958.017:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/202003.590:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/202003.590:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/202003.695:INFO:CONSOLE(1)] "Error", source: https://hectorstatic.baidu.com/cd37ed75a9387c5b.js (1)
+[1104/202004.155:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[1104/202006.072:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/202007.425:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/202007.425:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/202008.666:INFO:CONSOLE(3)] "JQMIGRATE: Migrate is installed, version 3.4.1", source: https://www.ccdi.gov.cn/images/jquery.js (3)
+[1104/202008.680:INFO:CONSOLE(272)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://dcs.conac.cn/js/33/000/0000/60464858/CA330000000604648580001.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.ccdi.gov.cn/yaowenn/202611/t20261104_520426.html (272)
+[1104/202008.681:INFO:CONSOLE(272)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://dcs.conac.cn/js/33/000/0000/60464858/CA330000000604648580001.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.ccdi.gov.cn/yaowenn/202611/t20261104_520426.html (272)
+[1104/202009.311:INFO:CONSOLE(1)] "no valid method for getting user was provided.", source: https://ta.trs.cn/c/js/ta.js?mpid=5312 (1)
+[1104/202009.312:INFO:CONSOLE(1)] "sessionCookie expired: null, so create new: mw234540_5312_4urq", source: https://ta.trs.cn/c/js/ta.js?mpid=5312 (1)
+[1104/202009.312:INFO:CONSOLE(1)] "UVCookie expired: null, so create new: mw234540_5312_77tc", source: https://ta.trs.cn/c/js/ta.js?mpid=5312 (1)
+[1104/202009.312:INFO:CONSOLE(1)] "set UVCookie topLevelDomain: ccdi.gov.cn, _trs_uv=mw234540_5312_77tc", source: https://ta.trs.cn/c/js/ta.js?mpid=5312 (1)
+[1104/202009.312:INFO:CONSOLE(1)] "set sessionCookie: _trs_ua_s_1=mw234540_5312_4urq", source: https://ta.trs.cn/c/js/ta.js?mpid=5312 (1)
+[1104/202015.970:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 13
+[1104/202020.315:INFO:CONSOLE(1)] "Error", source: https://hectorstatic.baidu.com/cd37ed75a9387c5b.js (1)
+[1104/202025.881:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/202532.160:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/202532.160:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/202532.428:INFO:CONSOLE(1)] "Error", source: https://hectorstatic.baidu.com/cd37ed75a9387c5b.js (1)
+[1104/202532.760:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1104/202532.760:INFO:CONSOLE(1)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: https://hectorstatic.baidu.com/96c9c06653ba892e.js (1)
+[1104/202533.042:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[1104/202543.168:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/202543.169:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/202547.805:INFO:CONSOLE(2096)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/202547.805:INFO:CONSOLE(2096)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (2096)
+[1104/202548.624:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/202550.118:INFO:CONSOLE(1872)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_a2ce963.js (1872)
+[1104/202551.164:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
