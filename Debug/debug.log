@@ -4976,3 +4976,62 @@ C:\fakepath(73,9-43): warning X3571: pow(f, e) will not work for negative f, use
 [1210/163140.739:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
 [1210/163140.850:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
 [1210/163141.597:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1210/170700.590:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1019/160733.011:INFO:CONSOLE(2089)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (2089)
+[1019/160733.011:INFO:CONSOLE(2089)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (2089)
+[1019/160733.142:INFO:CONSOLE(1)] "Error", source: https://hectorstatic.baidu.com/cd37ed75a9387c5b.js (1)
+[1019/160733.459:INFO:CONSOLE(1)] "OscillatorNode.frequency.value setter smoothing is deprecated and will be removed in M64, around January 2018. Please use setTargetAtTime() instead if smoothing is needed. See https://www.chromestatus.com/features/5287995770929152 for more details.", source: https://hectorstatic.baidu.com/96c9c06653ba892e.js (1)
+[1019/160733.459:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1019/160733.791:ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+[1019/160807.246:INFO:CONSOLE(1870)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (1870)
+[1019/160807.460:INFO:CONSOLE(2089)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (2089)
+[1019/160807.463:INFO:CONSOLE(2089)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (2089)
+[1019/160809.056:INFO:CONSOLE(1870)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (1870)
+[1019/160810.340:INFO:CONSOLE(2089)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (2089)
+[1019/160810.340:INFO:CONSOLE(2089)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (2089)
+[1019/160810.447:INFO:CONSOLE(1870)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (1870)
+[1019/160810.473:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 71
+[1019/160810.473:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 73
+[1019/160810.473:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 75
+[1019/160810.474:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 77
+[1019/160810.479:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 79
+[1019/160810.479:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 81
+[1019/160810.479:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 83
+[1019/160810.479:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 85
+[1019/160810.479:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 87
+[1019/160810.479:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 89
+[1019/160810.480:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 91
+[1019/160810.522:INFO:CONSOLE(2089)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (2089)
+[1019/160810.523:INFO:CONSOLE(2089)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (2089)
+[1019/160811.188:INFO:CONSOLE(1870)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (1870)
+[1019/160811.284:INFO:CONSOLE(2089)] "无畏是青春的态度，热AI是时代的脉搏。
+各位新同学正以无畏的姿态奔赴通用人工智能的星辰大海！
+作为引领AI时代浪潮的主力军，广阔舞台，待你大展身手。
+乘风破浪，勇往直前，未来百度将与你一起，创造无限可能！
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (2089)
+[1019/160811.284:INFO:CONSOLE(2089)] "%c百度2027校园招聘简历投递：https://talent.baidu.com/jobs/list", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (2089)
+[1019/160816.935:INFO:CONSOLE(1870)] "onbeforeunload save spyCache", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_b732276.js (1870)
+[1019/160817.590:INFO:CONSOLE(1)] "The key "viewport-fit" is not recognized and ignored.", source: https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13709144034126589273 (1)
+[1019/160817.591:INFO:CONSOLE(1)] "[gray] 使用默认 manifest", source: https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13709144034126589273 (1)
+[1019/160818.265:INFO:CONSOLE(1)] "[replay] 所有资源加载完成", source: https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13709144034126589273 (1)
+[1019/160818.330:INFO:CONSOLE(1)] "[itrace says] using document.cookie", source: https://g.alicdn.com/woodpeckerx/itrace-next/itrace.iife.js (1)
+[1019/160818.565:INFO:CONSOLE(8)] "QuickTracking SDK INIT SUCCESS!", source: https://o.alicdn.com/QTSDK/quicktracking-sdk/qt_web.cjs.js (8)
+[1019/160818.582:WARNING:PushPullFIFO.cpp(182)] PushPullFIFO: underflow while pulling (underflowCount=1, availableFrames=0, requestedFrames=480, fifoLength=8192)
+[1019/160819.174:INFO:CONSOLE(1)] "[gray] 未开启灰度", source: https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13709144034126589273 (1)
+[1019/160819.174:INFO:CONSOLE(1)] "[gray] 已删除缓存:", source: https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13709144034126589273 (1)
